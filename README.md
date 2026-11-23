@@ -34,6 +34,8 @@ pip install -r requirements.txt
 ## Đọc tiếp
 
 - Quy trình chung: [docs/PROCESS.md](docs/PROCESS.md)
+- Môi trường, thông số, quy ước: [docs/CONVENTIONS.md](docs/CONVENTIONS.md)
+- Nhật ký quyết định: [docs/DECISIONS.md](docs/DECISIONS.md)
 - Việc cần làm: [docs/TASKS.md](docs/TASKS.md)
 - Đặc tả đề tài: [docs/spec.md](docs/spec.md)
 - Lịch: [docs/SCHEDULE.md](docs/SCHEDULE.md)

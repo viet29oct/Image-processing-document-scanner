@@ -21,4 +21,4 @@ Bài tập lớn môn Nhập môn xử lý ảnh (2 tín), nhóm 15. Thi/nộp: 
 - Mỗi người làm trên nhánh `dev/<tên>`; vào `main` qua PR. Quy trình: `docs/PROCESS.md`.
 
 ## Đọc khi cần
-`docs/PROCESS.md` · `docs/TASKS.md` · `docs/members/<tên>.md` · `docs/reference/yeu-cau-giang-vien.md`
+`docs/CONVENTIONS.md` (môi trường, thông số, quy ước; hằng số ở `src/snapdocs/config.py`) · `docs/DECISIONS.md` · `docs/PROCESS.md` · `docs/TASKS.md` · `docs/members/<tên>.md` · `docs/reference/yeu-cau-giang-vien.md`
