@@ -1,0 +1,1025 @@
+[00:00:00] nó sẽ bắt được trên app đấy khi mình để hình ảnh vào trước cái camera của chúng ta
+[00:00:06] thì camera của chúng ta nó sẽ bắt nó để tắt được
+[00:00:08] à như vậy thì chúng ta bắt được hình ảnh này
+[00:00:10] cái căn cứ công dân này mình để như vậy thì
+[00:00:12] nó đã nhìn được cái thông tin chưa
+[00:00:14] đúng không ạ
+[00:00:16] thì nó cũng liên quan đến cái việc là
+[00:00:18] mình hiện nay những cái engine về nhận dạng
+[00:00:23] căn cứ công dân, mình nghĩ là nó cũng đã public đầy rồi
+[00:00:27] chúng ta có thể là kết nối 1 cái engine như thế
+[00:00:29] và chúng ta làm 1 cái thao tác kỳ đồng góp
+[00:00:32] chính tức của chúng ta là em xây dựng được 1 cái app này
+[00:00:35] và em có thể sử dụng 1 cái engine có sản đẻ mề tếch
+[00:00:37] nhưng cái app này giá trị ở đâu
+[00:00:39] là khi em đặt chứng minh cái căn cứ công dân vào
+[00:00:42] thì em biết rằng cái căn cứ công dân này
+[00:00:45] nó chưa đặt tới cái kích thước nó chưa chuẩn
+[00:00:47] tôi lấy ví dụ là để mà nó chuột được 1 cái căn cứ công dân ấy
+[00:00:50] thì cái khoảng cách phải đủ, đúng không
+[00:00:53] cái khoảng cách phải đủ để hình ảnh của chúng ta đủ nét chẳng hạn
+[00:00:57] mình đế thách ra là hình ảnh này để khoảng cách này để xa quá
+[00:01:00] tức là mình thấy cái ảnh của chúng ta nó chưa đủ nét
+[00:01:02] thì mình sẽ báo lên
+[00:01:05] đấy khoảng cách này chưa phù hợp chẳng hạn vân vân
+[00:01:09] hay hoặc là chứng minh cái căn cứ công dân của chúng ta
+[00:01:11] để nó bị lệnh, bị xiên gì gì đấy
+[00:01:14] thì chúng ta cũng đế thách được cái chuyện đấy
+[00:01:16] nói tóm lại là có những cái ứng dụng nó khá là thiết thực như vậy
+[00:01:20] đúng hả
+[00:01:22] thế thì đây là cái ứng dụng này nha
+[00:01:25] xong ứng dụng liên quan đến BluFace
+[00:01:28] thì là những cái ứng dụng để nó bảo vệ cái tính privacy
+[00:01:35] cái ứng dụng này này tạm hạn như là khi mà có 1 cái đối tượng nào
+[00:01:39] trong video có các cái đối tượng
+[00:01:42] trong video đấy mà có thì chúng ta chỉ quan tâm đến 1 số cái đối tượng thôi
+[00:01:46] còn nhiều số đối tượng khác không quan tâm thì người ta có thể là
+[00:01:49] người ta có thể lãng sụp cái kỹ thuật gọi là BluFace để chúng ta làm nghề đi
+[00:01:54] làm nghề với con mặt mà nó không liên quan đi
+[00:01:56] các bạn thấy không
+[00:01:57] ví dụ như là khi mà 1 cái ảnh viện của chàng hại Ly Vyven
+[00:02:00] đọc tên phai trên internet nha
+[00:02:02] thì có thường nó nói về 1 cái nhân vật A nào đấy
+[00:02:05] những cái người mà đứng xung quanh đấy mà họ không quan tâm
+[00:02:08] có đúng hả
+[00:02:09] thì họ làm BluFace, họ làm mờ con mặt đi để sao mình không biết đấy là người nào
+[00:02:14] đúng hả
+[00:02:15] thế giới liên quan đến sketching, making này
+[00:02:19] cái ức dụ này thì cũng hay bởi vì là
+[00:02:23] chẳng hạn như là hiện nay em thấy là
+[00:02:26] với những cái ức dụ kiểu như là dạp picture break
+[00:02:30] thì 1 cái ảnh điệu như khi chúng ta có thể quan toàn
+[00:02:34] trong cái tạng đa của các bạn với cái mạng hồi mở như thế này
+[00:02:37] chẳng hạn như là khi cô đưa vào
+[00:02:39] chúng ta có 1 cái bản phát hảo về 1 cái công trình dựng chẳng hạn
+[00:02:43] sau khi chúng ta đưa vào ứng dụng chúng ta thì nó tạo ra 1 cái bản 3D hoàn chỉ
+[00:02:49] đó, cái đấy cũng là những cái mà chắc thực nha
+[00:02:52] thế rồi liên quan đến ví dụ như là cái đề tài về
+[00:02:56] document scanner ấy
+[00:02:58] đó là liên quan đến bài tán OCA ấy
+[00:03:01] bài tán OCA thì các bạn cũng có thể làm cho cô những cái ức dụ như là
+[00:03:05] nhận dạng về số xe thì cái đấy là cũng làm nhiều rồi
+[00:03:08] nhưng mà chúng ta xem là cái
+[00:03:10] cái khách sức của bài tán ở đâu chúng ta có muốn khai thác cái khách sức đúng không
+[00:03:15] như là những cái nhận dạng về số xe hệ nay thì
+[00:03:19] thì thường là đối với những cái ứng dụng mà
+[00:03:25] trong các hệ thống mà đổi xe dạng hạn ấy thì
+[00:03:28] tài người ta đặt khổ định cho nên là cái ảnh của chúng ta
+[00:03:31] thì thường nó sẽ có ít có sự thay đổi nhưng hiện nay ví dụ mình đặt vấn đề là
+[00:03:35] mình nhận dạng về số xe từ những cái ảnh
+[00:03:39] chụp bằng máy máy không người lái chẳng hạn
+[00:03:41] một lần ví dụ thế, máy máy không người lái thì cái ảnh đấy
+[00:03:44] nó khá là nhỏ, khá là mơ chẳng hạn
+[00:03:48] thì mình sẽ có những cái kỹ sử dí nào nếu mà bạn nào muốn tâm thắng
+[00:03:53] nhưng còn nếu không thì các bạn cũng vẫn có thể lựa chọn
+[00:03:56] với đề tài dạng về số xe với những ảnh các bạn đưa vào bình tường thôi
+[00:04:00] hoặc là các em cũng có thể tự chụp những ảnh đấy
+[00:04:03] tự chụp ảnh về số xe, rồi các em tự cho vào
+[00:04:07] ảnh này bọn em tự chụp để cho cho em nhận dạng
+[00:04:10] những cái bài đoán đấy
+[00:04:13] hoặc là các em làm cho bộ các ảnh ứng dụng
+[00:04:16] ví dụ như là các em làm một cái JDS dự động
+[00:04:19] những cái này là những cái ý tưởng
+[00:04:22] các em có thể lựa chọn là những ý tưởng trong này
+[00:04:26] hoặc là những cái mà cô nói ấy
+[00:04:28] để nó tăng tính, gọi là ứng dụng lên
+[00:04:31] ví dụ như các em hình dung được là các em có một cái ảnh
+[00:04:34] các em và xương trị thì em hoàn toàn có thể chụp lại những cái nhãn sản phẩm
+[00:04:38] là xử như là các em xây dựng một cái cơ sở dữ liệu
+[00:04:41] trong đấy em thu thập được về cái sản phẩm này, cái thông tin thành phần
+[00:04:44] trên cái nhãn sản phẩm ấy
+[00:04:46] thì tất cả những cái thông tin về cái sản phẩm đó
+[00:04:48] thì nó không thể hiện rõ ràng
+[00:04:50] nó chỉ có một số thông tin thôi
+[00:04:52] bởi vì cái phần đấy nó rất là...
+[00:04:54] nó không đủ chỗ để nó có thể tìm bấy hết các ảnh như thế
+[00:04:57] thế thì ví dụ quét một cái thì nó nhận dạng ra sản phẩm gì
+[00:05:00] và thậm chí là nó truy xuất đến
+[00:05:02] cơ sở dữ liệu đấy nó không có
+[00:05:04] cái thông tin cụ thể hơn, chi tiết hơn về cái sản phẩm đó
+[00:05:07] ví dụ như là hàm lượng cano, lượng đường
+[00:05:10] hàm lượng đường này, hàm lượng chất béo này
+[00:05:12] hàm lượng gì đây, tinh bột v.v. chẳng hạn
+[00:05:15] chẳng hạn đấy là đối với đồ ăn
+[00:05:17] thế còn những cái sản phẩm khác thì nếu đồ
+[00:05:19] sản phẩm tiêu dùng thì cái này sứ dữ ở đâu
+[00:05:22] thế rồi thì chất liệu làm đây là cái gì
+[00:05:25] các em hoàn toàn có thể là làm những cái ứng dụng kiểu như vậy
+[00:05:28] nó có tính
+[00:05:30] ứng dụng thiết thực mà chúng ta lại cũng có những cái để các em
+[00:05:34] cảm thấy là muốn khát phá nó, đúng không?
+[00:05:36] Đúng rồi
+[00:05:37] thế thì ở đây ví dụ như thế
+[00:05:40] thế còn những cái liên quan đến
+[00:05:43] các cái ứng dụng pay detection
+[00:05:46] thì nó cũng sớm như là những ứng dụng mà cô hỏi lắm nè
+[00:05:49] về khuôn bản, pay detection, pay
+[00:05:54] trả bác hành ván sản phẩm, trả bác hành ván
+[00:05:57] sản phẩm này, ví dụ như trên điện thoại thẩm giác
+[00:06:01] chúng ta có thể dạy điên với những cái ứng dụng
+[00:06:05] để xem là mình tập trung
+[00:06:08] khả nảy 2B không, hoặc là trên điện thoại thì đây không phải
+[00:06:15] là chủ sử của điện thoại của mình thôi, nó chỉ trả lời là
+[00:06:18] thì, nếu mà mình có thể bài thả
+[00:06:29] những cái liên quan đến ví dụ
+[00:06:31] hay hành ván sản phẩm, hay hành ván phẩm của 100 tháng
+[00:06:35] mà những cái ứng dụng nó phức tạp ấy thì các em cũng có thể
+[00:06:45] rời chọn những cái ứng dụng mà nó rất nhiều ở trên ảnh này
+[00:06:51] phép rõe mòn này, đây là phép làm dây này
+[00:07:02] phép làm béo ấy, rồi tìm Vapmory
+[00:07:14] chu viến ở trên ảnh, ứng dụng vào 1 cái bài gắn cụ thể nào đấy
+[00:07:17] ứng dụng mà nhận dạng thử trí
+[00:07:36] ở mức đơn giản thôi
+[00:07:39] trong cái này 3,5 cái bài gắn này nếu bạn nào muốn
+[00:07:42] tìm hiểu những cái cơ bản thì các em có thể
+[00:07:45] lựa chọn ở trong 35 cái bài gắn này
+[00:07:48] thế còn trong cái danh sách bài gắn gọi ý ấy
+[00:07:51] thì ở đây cô có đưa vào những cái ứng dụng
+[00:07:54] nó gọi là phần có ứng dụng
+[00:07:57] ở đây thì cô có phân ra là cái xử lý ảnh cơ bản
+[00:08:01] thì nó sẽ gồm có 30 bài đây
+[00:08:04] nó gồm có 20 bài
+[00:08:07] là phục về tình dạng xử lý ảnh cơ bản
+[00:08:10] thế thì ví dụ như các bài đoán của cô
+[00:08:16] thì nó sẽ liên quan đến những cái trình xe và xử lý ảnh cơ bản
+[00:08:19] ví dụ như các em có thể xây dựng 1 cái
+[00:08:22] các em thấy là trên mấy cái kia của mình
+[00:08:26] xử lý ảnh cơ bản cho thêm là chỗ bản chân dung
+[00:08:31] chỗ bản chân dung xong rồi
+[00:08:34] thì mình cho phép là lọc chẳng hạn như là
+[00:08:40] lọc để làm da, ví dụ chẳng hạn mình xây cái ác
+[00:08:43] để chuyên là chỗ bản chân dung chẳng hạn
+[00:08:46] thế thì khi chỗ vào thì nó cũng sẽ có những cái tính năng
+[00:08:49] ví dụ như là làm mịn để cho da
+[00:08:52] làm mịn làm trắng, ví dụ trên
+[00:08:55] trên mặt của chúng ta mà nó có mụn nhỏ dưới
+[00:08:58] làm mịn xong là nó cho bay mụn đi luôn
+[00:09:01] lấy ví dụ remover đấy
+[00:09:06] nó coi rằng là những cái nốt mụn trên mặt chúng ta cũng giống như là cái nhíu
+[00:09:09] thì bây giờ chúng ta xóa nó đi
+[00:09:12] rồi những cái liên quan đến ví dụ như là làm trắng
+[00:09:15] đồng độ
+[00:09:23] ở cái tông màu tối thì chúng ta cộng thêm
+[00:09:36] hàng số nữa thì nó sẽ làm sáng lên
+[00:09:41] mà chúng ta thấy tất cả những cái điểm ảnh màu tối thì nó tiên về
+[00:09:44] giá trị nhỏ, những cái điểm ảnh mà
+[00:09:47] sáng thì nó tiên về giá trị lớn
+[00:09:50] thế cho nên chúng ta muốn làm xây dựng một cái ảnh chân dung
+[00:10:03] thì chúng ta có thể để tích là đâu là mắt, đâu là mũi, đâu là cắn
+[00:10:06] sau khi để tích rồi thì ví dụ như là người ta muốn là
+[00:10:09] làm cho cái mũi nó nào xây dựng được những cái ảnh
+[00:10:24] vẫn đẩn được cái ảnh chân dung
+[00:10:41] các em xây dựng cái trường xử lý ảnh ấy thì trên đấy
+[00:10:44] chẳng hạn như là các em đưa vào cái ảnh
+[00:10:47] các em để tích xem là cái ảnh này nó phải vấn đề gì
+[00:10:50] để chúng ta có thể tăng cường nó lên chẳng hạn
+[00:10:53] ví dụ là các em có thể để tích ra ảnh này nó quá xá
+[00:10:57] thế thì nó sẽ tự động điều chỉnh cho cái ảnh nó
+[00:11:00] nó cái màu sắc hài hòa đi
+[00:11:03] cái độ gọi là tương phản dưới nền và đối tượng
+[00:11:06] nó sẽ rõ rề hơn
+[00:11:09] thế hoặc là cái ảnh này của chúng ta cho mình có được
+[00:11:12] cái ảnh mà nó sắc lét hơn, nó không bị nhễu nữa
+[00:11:19] các cái phép toán là nhễu thì chúng ta đã cố đổi giới thiệu rồi
+[00:11:22] đúng không?
+[00:11:25] thế rồi các cái thử toán phát hiện biên nhẳng hạn
+[00:11:28] thế này thì nó dùng để phân vụ hạng
+[00:11:31] chẳng hạn như là trong các em
+[00:11:34] cơ đơn giản là tôi cho vào cái ảnh
+[00:11:37] và trên cái ảnh đấy thì nó có rất nhiều các đối tượng
+[00:11:40] khác nhau thế thì chúng ta có thể tìm hiểu các cái thử toán
+[00:11:43] bọi là thử toán Samanitation bây giờ hoặc là các thử toán
+[00:11:46] bây giờ để chúng ta phát hiện được các cái đối tượng
+[00:11:49] khác nhau ở trên ảnh đó, nếu mà làm ở mức tinh
+[00:11:52] hơn nữa thì những cái OCDitation hiện nay
+[00:11:55] nó chính là nó dựa trên các cái phép
+[00:11:58] gọi là các cái phép thử toán Samanitation
+[00:12:01] thì như cô đã giới thiệu rồi, các thử toán Samanitation
+[00:12:04] thì nó có là các Samanitation rất là thử toán phân vùng
+[00:12:09] thì nó có tư con trao vào nguyễn ảnh và
+[00:12:15] cái vai trò của Samanitation
+[00:12:18] là tôi sẽ xác định, xem hồi nứa là
+[00:12:26] khi cô giải thích, nó sẽ là
+[00:12:35] nhận dạng đầu vào của chúng ta, y lưu cầu của bài đa
+[00:12:40] Loseca là gì, là nó sẽ tự động nhận dựa
+[00:12:44] ở trên ảnh, điều chỉ chúng ta như vậy
+[00:13:12] thì trường hợp mà ví dụ như để tác riêng
+[00:14:23] các thử toán thông thường rồi, thì lúc đấy
+[00:14:26] sở dĩ là chúng ta có thể là
+[00:14:49] làm cả 7 tuần nhận dạng chữ đấy, chúng ta
+[00:14:52] có thể dùng dù lý ảnh, mà cho chúng ta chủ một ảnh tài liệu vào
+[00:15:00] và cái ảnh tài liệu đấy của chúng ta là tăng hèn thấy mị lệch chẳng hạn
+[00:15:03] thì chúng ta có thể sử dụng các thử toán, tăng chỉnh độ lệch
+[00:15:06] chứ không thì chúng ta lại làm dù lý ảnh
+[00:15:29] chúng ta lại sử dụng ở trên dư ựa số chẳng hạn
+[00:15:32] thì thế đấy nó mị lệch
+[00:15:35] nhận dạng phí tử
+[00:15:41] nhưng là CMP, thì hoàn toàn đi thi các bộ
+[00:15:57] ở đây dư ựa số, đúng không, feature Ajaxson rồi
+[00:16:11] nghĩa là cái tưật toán, feature Ajaxson rồi
+[00:16:14] thì từ cái đặc trưng đấy, em chuyển nó đặc trưng đấy về dạng số
+[00:16:17] thế nhưng mà các em phải ý giải được
+[00:16:20] thì lúc đấy các em lại sẽ gặp phải một quán, feature Ajaxson là em lấy như thế nào
+[00:16:26] những cái giá trị này là em lấy như thế nào
+[00:16:42] thì nếu mà câu hỏi nó không, phải sử dụng số chẳng hạn
+[00:16:52] thế rồi ở đây thì ví dụ như là cái câu 5 này
+[00:16:55] thì nó liên quan đến là cũng vẫn là các cái ứng dụng sử dụng dạng cơ bản
+[00:17:14] cái ảnh đó, tăng cường chất lượng nó lên
+[00:17:25] thì nó cũng là trong cái ứng dụng sử dụng dạng
+[00:17:41] thì em có thể trình bày dạng ảnh của em ở đây
+[00:17:48] có những tính năng ABC như thế này
+[00:17:53] ví dụ như trên cái cửa sổ này chẳng hạn, đúng không
+[00:17:56] thì các em có thể xây dự một cái view, một cái ứng dụng sử dụng dạng
+[00:17:59] thì các em chia với cửa sổ đấy ra, hai, một chia làm ba cũng được
+[00:18:05] ví dụ như các em để ở dưới dạng các cái mũ tần như thế này
+[00:18:08] thì đây là các cái tính cửa sổ này, các em chia ra làm đôi
+[00:18:15] thì cái tý nhất là nó đơn giản như thế này
+[00:19:10] nếu như có ý tưởng thiết kế, ví dụ làm về cái hình dụng
+[00:19:13] ảnh cơ bản này thì các em cũng có thể thiết kế
+[00:19:16] nó một cái dạng như này, đơn giản thôi
+[00:19:19] các em cứ coi chẳng hạn đây là cái cửa sổ ứng dụng này
+[00:19:30] chẳng hạn đây là cái mùng cửa sổ, thì trên đấy các em
+[00:19:40] cái mùng này mình sẽ chia nó ra thành hai phần
+[00:19:43] cái phần này nó sẽ là kém kết kỳ cái về cái tư duy thiết kế
+[00:19:50] là các bạn cũng đều có rồi, đúng không
+[00:19:53] ví dụ như thế này
+[00:19:58] đây là cửa sổ, thế mà ở vạng dưới này này
+[00:20:24] thì các bạn có thể cú chí các cái mũ tần ở đây
+[00:20:27] các em có thể cú chí các cái mũ tần ở đây
+[00:20:30] có lấy ví dụ như là
+[00:20:38] đây là cái function 1 nha
+[00:20:46] ví dụ như là cái tính năng 1 chẳng hạn như là
+[00:20:49] cái sức năng gì đó
+[00:20:52] là f1 chẳng hạn
+[00:20:55] ở đây f tức là cái
+[00:20:58] cái tính năng mà các em định để mua
+[00:21:01] sau đấy thì các em có kích vào đây
+[00:21:04] nó sẽ ra tương ứng
+[00:21:07] ví dụ đây là cái cửa sổ này
+[00:21:10] đây là cửa sổ kết quả
+[00:21:13] nếu mà không phục vụ thì các em chỉ làm đơn giản như vậy
+[00:21:16] không nghĩa là không có vấn đề gì
+[00:21:23] đây là cửa sổ kết quả chẳng hạn
+[00:21:29] mình nghĩ dùng là khi mà mình thực hiện cái tính năng này
+[00:21:46] mình thực hiện nó với 1 ảnh đầu vào ở đây
+[00:21:49] cái chên này mình cũng dễ cho thêm người ta
+[00:21:52] các em có thể đưa về cái dạng ảnh
+[00:21:55] dưới dạng 1 cái list dưới đó thì cứ kích vào cái ảnh nào
+[00:21:58] tức là cái ảnh đấy là cái ảnh đang ảnh xích
+[00:22:01] đến đây thì các em sọc cái function 1
+[00:22:04] thì nó sẽ diễn vị kết quả tư
+[00:22:07] nếu mà ở đây là cái tính năng thứ 2 nha
+[00:22:10] cũng tương tự như vậy
+[00:22:13] các em cứ thể xếp 1 loạt cái tính năng này ra
+[00:22:22] đơn giản nhất là như thế này
+[00:22:25] các cái function 2
+[00:22:28] mỗi lần kết vào thì nó sẽ diễn vị ra
+[00:22:31] kết quả ở cái cửa sổ bên phải
+[00:22:34] cái bên trái này thì nó có mỗi nhiều ảnh
+[00:22:37] còn bên phải nó là kết quả tư hứng
+[00:22:40] của từng cái thao tác trên cái ảnh
+[00:22:43] từng vào mà đang được ảnh xích
+[00:22:46] thì các em rất là dạng
+[00:22:49] các em xây dựng 1 cái
+[00:22:52] khi mà làm thì các em nên có xong xịn
+[00:23:05] nó không vò dạng đến với gì
+[00:23:08] thì đấy là về xử lý ảnh thơ bản nha
+[00:23:16] ngoài ra nó có vỏ dễ nhiên để tân vào mức sáng
+[00:23:19] bây giờ các phép mà phép nền chính là background
+[00:23:25] là ảnh chụp ở cái
+[00:23:28] góc rộng
+[00:23:31] nó giống như 1 ảnh chụp
+[00:23:34] nó dàn đều dàn rộng
+[00:23:37] trên cái ảnh mà chúng ta không nhận được
+[00:23:40] cái ảnh đó gọi là ảnh bananoma
+[00:23:43] hoặc là phép toán các cái mụ lạc
+[00:23:46] vâng vâng
+[00:23:49] thì đấy là các phép biến đổi ảnh cơ bản
+[00:23:52] còn các bài toán cái chủ đề thứ 2
+[00:23:55] liên quan đến phần nhận dạng
+[00:23:58] cũng giống như là cô vừa mới trao đổi xe
+[00:24:01] vùng có chẳng hạn như các bài toán
+[00:24:04] về nhận dạng cơ mạng, liên quan đến nhận dạng phản xuất
+[00:24:07] nhận dạng đối tượng, nhận dạng chịu biết
+[00:24:10] nhận dạng biển gió thông, nhận dạng sản phẩm
+[00:24:13] nhận dạng thực phẩm
+[00:24:16] nhận dạng các lớp đối tượng
+[00:24:19] hoặc là các bạn không làm nhận dạng ảnh
+[00:24:22] thì các bạn có thể làm các bài toán về chart tưu ảnh
+[00:24:25] tưu ảnh là image retrieval
+[00:24:28] 2 cái tưu khóa khác nhau với nhau
+[00:24:37] bài toán về ảnh
+[00:24:53] thấy ở trên cửa sổ của cô không? cô đang mở Google Web
+[00:24:56] thì cái image, nhé
+[00:24:59] khi nói về image nhận dạng hình ảnh thì
+[00:25:04] image hoặc là image of the
+[00:25:07] các bạn có thể tra kí hữu
+[00:25:10] image recognition classification
+[00:25:13] thì đây là các bài toán các em có nhìn đến cửa sổ Google không nhỉ?
+[00:25:19] thấy cửa sổ Vap của cô
+[00:25:22] cô đang nói đến ở đây
+[00:25:59] nhìn đến rồi đúng không?
+[00:26:05] thì các em ví dụ muốn tra kí bài toán
+[00:26:10] về image classification thì cái tưu khóa của nó
+[00:26:13] là image classification
+[00:26:16] đúng không nghĩa là hiện nay nếu mà với một cái tưu khóa này là nó cũng đã
+[00:26:19] một loạt các chủ đề liên quan đến bài toán nhận dạng hình ảnh
+[00:26:22] thế lấy cái tái thứ nhất
+[00:26:25] hoặc là không thì các em tra kí với thuật ngữ là
+[00:26:28] image recognition
+[00:26:31] là ở đây image classification
+[00:26:34] thì là phân lớp hình ảnh
+[00:26:37] còn image recognition thì nó là nhận dạng hình ảnh
+[00:26:40] đôi khi thì nếu các bạn không hàm hiểu cái ảnh ấy thì
+[00:26:43] hai cái miệng này đôi khi người ta cũng dùng lẫn nhau
+[00:26:46] nhưng mà tái mà chúng ta
+[00:26:49] nếu các em muốn phân biệt cho ra rõ thì
+[00:26:52] nó phân biệt như thế này nha
+[00:26:55] xét về phạm đi thì cái
+[00:26:58] ví dụ để chúng ta giải quyết một bài toán ấy thì
+[00:27:01] một cái bài toán gọi là image recognition ấy nhận dạng
+[00:27:04] đối tượng nó sẽ bao gồm hai công đoạn
+[00:27:07] một công đoạn là feature detection tức là trích trọn đã chiêu một cái đối tượng
+[00:27:10] và nhận dạng và sau khi trích trọn đã trương rồi thì
+[00:27:13] nó sẽ đưa vào phân lớp dạ
+[00:27:16] một cái bài toán image recognition nhận dạng
+[00:27:19] thì nó sẽ bao gồm bài toán
+[00:27:22] gọi là phân loại ảnh
+[00:27:25] phân loại ảnh là sau khi
+[00:27:28] để giải quyết bài toán recognition nhận dạng ấy thì
+[00:27:31] chúng ta phải lấy được trạm trương của đối tượng
+[00:27:34] sau đó chúng ta mới phân lớp đối tượng
+[00:27:37] image classification ấy thì ở đây nó muốn nói đến
+[00:27:40] các kỹ thuật toán để phân lớp hình ảnh
+[00:27:43] các bạn phân liệt cho cô với cái đấy
+[00:27:46] nhưng mà tương nhiên
+[00:27:49] bây giờ một số cái khái điện nó có đánh đồng nhau
+[00:27:52] chẳng hạn như là object detection này
+[00:27:55] object segmentation này, object recognition này
+[00:27:58] object classification
+[00:28:01] nếu như mà mình không tách mặt ra
+[00:28:06] thì ưu khi các từ đấy là hiện nay là dân tình đang
+[00:28:09] dùng nó một cách đồng nhất với nhau
+[00:28:12] nhưng mà thực ra mỗi bài toán sẽ có kỹ hiện diểm đấy ạ
+[00:28:15] như là cái thuật ngữ là recognition
+[00:28:18] với lại thuật ngữ là classification là cô đã giải thích với chúng ta rồi
+[00:28:21] đúng không? Còn object detection
+[00:28:24] là gọi là phát hiện đối tượng
+[00:28:27] nhưng mà hiện nay thì
+[00:28:30] với sự ra đời vào sâu thì
+[00:28:33] các công loại sử dụng trước đây cái việc này
+[00:28:36] nó đều có sự tách mặt rõ ràng
+[00:28:39] khi mà học sâu rất là đời ấy
+[00:28:42] bởi vì các công loại đang có xu thế
+[00:28:45] là only one, như là
+[00:28:48] end-to-end, anh em là một cái
+[00:28:51] một cái ngôi dưới ấy
+[00:28:54] nó từ đầu đến cuối, nó hẳn là
+[00:28:58] đôi khi sử dụng một cái kế trộm hạn
+[00:29:01] mà nó sẽ tếp, có thể là gọi là
+[00:29:10] tếp dựng, thì nó có một cái hạn là chứng thật đấy
+[00:29:13] thì nó rất là dùng khá đổ biến
+[00:29:20] những cái khá khác thì trả lãm như là
+[00:29:33] ngoài cái kệnh, khá môi hình kinh hãm để bày tỏa classification
+[00:29:44] thì mình sẽ chọn chân và classification
+[00:29:48] và chỉ có xét xử lệ là một cái phần để
+[00:30:10] thế chứ anh em đã xét kế một đi và đến cái phần thứ hai
+[00:30:13] đấy là phần classification, thế thì nhìn về
+[00:30:16] một cái kế cạnh nào đó thì đây là một cái
+[00:30:19] gọi là một cái kiến trúc, một cái kiến trúc và một bức
+[00:30:24] đấy cho nên là đối với nhau xét kế tín dạng
+[00:30:56] thêm một hình học sâu ra đời thì nó sẽ được phát biểu
+[00:31:14] như này, ở trên ngãnh đầu vào đó, khi tôi xét định được
+[00:31:33] cho từng bộ classification, tức là tôi phát hiện đâu là vùng title
+[00:31:45] đâu là vùng bảng, nó gọi là table, đâu là vùng
+[00:31:48] image, thế rồi, classification tức là
+[00:32:08] thế nhưng mà sau khi xét, xe đạp, xe máy máy
+[00:32:39] vâng vâng, tôi chỉ định trả lời cô hỏi là gì đó là
+[00:32:53] trí ngãnh đấy, tôi là gì, hôm nửa ngoài ra
+[00:33:22] kế tín dạng nó còn tinh thôi, cô hỏi của semantic là tôi trả lời là
+[00:33:37] thuộc vào lớp người, cái này là thuộc vào lớp cây cối, cái này là thuộc vào lớp
+[00:33:40] xe bộ chẳng hạn, thì
+[00:34:06] đấy chính là bài toán, khi dịch ra tiếng Việt của chúng ta
+[00:34:09] semantic is a division, semantic is a segmentation
+[00:34:12] semantic is a segmentation, tức là
+[00:34:24] thế thì, cái này nó nảy, thế thì
+[00:34:37] semantic hay là x thì ứng dụng vào bài toán
+[00:34:50] detection, object recognition
+[00:34:53] recognition tức là tôi nhận dạng
+[00:35:03] với đối tượng, thế thì, hiện nay là bản chất là
+[00:35:06] dạng để giải quyết bài toán object detection
+[00:35:11] hoặc là object recognition người ta đều sử dụng, cô lấy
+[00:35:14] ví dụ như là, người ta đều sử dụng về instant segmentation
+[00:35:17] thì như vậy, rõ ràng là nó không có danh giới giữa hai bài toán này
+[00:35:20] đúng hả, vì thế cho nên là người ta dùng hiện nay
+[00:35:29] một số cái khái niệm nó lại đồng nhất như vậy
+[00:35:32] thì cái anh chính, cái sự xuất hiện của bên học sơ
+[00:35:37] nó giải quyết, only one nó giải quyết, gọi là
+[00:35:40] do nên là, dù cho tôi có object detection
+[00:35:43] hay là object recognition, thì cuối cùng là
+[00:35:46] tôi vẫn ra cùng một loại kết quả, cho nên là
+[00:35:49] chúng ta, người ta đồng nhất, thấy nhìn thấy nắm được chưa nhỉ
+[00:35:59] thế cho nên là trong cái
+[00:36:02] danh sách thì tại sao rất nhiều người
+[00:36:19] ở đây, có nghĩa là nó sẽ chuyển
+[00:37:49] nha các cái bài toán dạng, phiên hiệu chẳng hạn
+[00:38:07] đối như là các cái thiết bị mà nó phát thì
+[00:38:13] người ta nó chuyển qua tín hiệu ảnh, và nó sửa lý
+[00:38:30] có thể tình hiệu, cái bài toán này thì
+[00:38:53] tòa nhà ở Trung Côn, Bangkok v.v. nên là người ta cũng bắt đầu
+[00:38:56] đưa vào ứng dụng hết, hệ thống giám sát hành linh
+[00:38:59] trong nhà máy nha, ví dụ như bài toán nặt ra là
+[00:39:02] tôi có cái hệ thống camera giám sát
+[00:39:05] thì trong cái hệ thống đấy, nó sẽ phải
+[00:39:08] là có các tính năng, nó gọi là các tính năng AI
+[00:39:11] đấy, ví dụ như là khi mà tôi
+[00:39:14] tính hiệu đó từ camera, nó là các cái video
+[00:39:17] trên cái video đấy thì
+[00:39:20] mình hoàn toàn là, ví dụ như trong tòa trung cư
+[00:39:23] chẳng hạn, em có hạn thấy là những cái trung cư cao cao
+[00:39:26] khi chúng ta vào, phải là phư dân
+[00:39:29] thì chúng ta mới đi được thang máy, đối với chủ nhà
+[00:39:51] chủ quan hộ, khách của tôi là di tuật nhận dạng mặt
+[00:40:01] hoặc là giám sát hành linh thì chẳng hạn
+[00:40:04] như là tôi có một cái camera, thì trong cái camera
+[00:40:07] đó là tôi giám sát một khu vực mà không ai được đột nhập
+[00:40:09] vào hết, nhưng mà khi mà cái camera của tôi
+[00:40:12] nó lại cái tín hiệu từ camera ấy mà
+[00:40:15] cái sự lý ảnh của chúng ta, cái nhận dạng
+[00:40:18] hình ảnh của chúng ta ở đây là gì? Là chúng ta sẽ tự động
+[00:40:21] nhận dạng được, ví dụ như là trên cái
+[00:40:24] video đó, chúng ta phát hiện là tổ tán phải
+[00:40:27] tự động phát hiện là, à có những cái đối tượng, nó đi vào cái bùng
+[00:40:30] giám sát mà cái bùng không, cấm không cho ai vào, đúng hông?
+[00:40:33] Vậy thì chúng ta phải cảnh báo, hay chẳng hạn
+[00:40:36] như là trên đường phố có những cái nơi mà người ta
+[00:40:39] đổ xe, thế thì chẳng hạn
+[00:40:42] người ta lắp những cái camera ở đấy, đến khi mà cái xe
+[00:40:45] mà nó đến, nó đổ thì lập tức là hệ thống nó sẽ
+[00:40:48] phát hiện được luôn là có xe này dừng đũ cháy kép, và nó rưa
+[00:40:51] ra cảnh báo luôn, hay chẳng hạn
+[00:40:54] như là
+[00:40:57] chẳng hạn như là
+[00:41:00] giám sát ở trường học chẳng hạn, đúng hông? Ví dụ như là
+[00:41:03] mình có thể là có một cái hệ thống camera
+[00:41:06] và nó dù nhận những ngại, chẳng hạn như là
+[00:41:09] nó cũng có thể cảnh báo những bất thường, ví dụ như là
+[00:41:12] học sinh mà tún tộn lại một chỗ chẳng hạn, hoặc là đánh nhau
+[00:41:15] hay là có những cái hành vi bất thường chẳng hạn thì
+[00:41:18] nó không phải cảnh báo, có rất rất nhiều những yên dụng, các bạn nhé, liên quan đến
+[00:41:21] giám sát ạ, dạ. Thế thì
+[00:41:24] liên quan đến, đấy, những cái bài toán
+[00:41:27] nhận dạ, thì ngoài cái chuyện là nhận dạ
+[00:41:30] thì những cái ứng dụng mà
+[00:41:33] như cô làm research chẳng hạn thì
+[00:41:36] thì nó là thường ví dụ như là cái bài toán đấy để mình
+[00:41:39] phân luồng nhận dạ, giao thông và mục đích hướng đến là cái ứng dụng của nó
+[00:41:42] là gì, chẳng hạn như mình muốn nhận dạ để mình phân luồng giao thông
+[00:41:45] chẳng hạn, cô ấy ví dụ như là trên Google hiện nay
+[00:41:48] em thấy là cái tính năng mà chúng ta xem một cái
+[00:41:51] Google Maps, thế thì những cái khu mà nó bị ủng tắc
+[00:41:54] nó có màu xanh màu vàng màu đỏ
+[00:41:57] chúng ta thấy là, nhờ chúng ta dùng chúng ta cũng thấy
+[00:42:00] rất là ok với tính năng đó, thật ra
+[00:42:03] tất cả số người dùng thài lòng với tính năng đó, bởi vì là
+[00:42:06] khi mình xem Google Maps mà
+[00:42:10] cho mình trái được cái cung đường đấy, thì
+[00:42:15] rõ ràng là chúng ta sẽ trái được cái cung đường, đúng không?
+[00:42:18] thế thì để mà giải quyết được cái tại sao
+[00:42:21] nó lại có được tính năng đấy, thế thì nếu bạn nào
+[00:42:24] mà làm với các cái nàm quen, với các cái ứng dụng Google
+[00:42:27] thì các em thấy là gì, là hiện nay
+[00:42:30] Google thu thập cái thông tin đó từ các cái
+[00:42:33] thiết bị di động
+[00:42:35] có vẻ như là cái tín hiệu của cô lúc trước nó không ổn định
+[00:42:39] các bạn có thấy thế không?
+[00:42:40] bởi vì lúc mà tôi nói, tôi quan sát vào cái mic
+[00:42:46] tôi thấy nó chả có tiếng gì hay sao, nhưng mà tôi cũng chả thấy các bạn ý kiến gì
+[00:42:50] phải tánh lại là có nghe không?
+[00:42:53] có lúc ngon hay vàng tí?
+[00:42:55] bây giờ cô mới điều chỉnh lại, tại vì bây giờ cô mới phát hiện ra
+[00:42:58] là cô điều chỉnh lại, còn lúc trước là tôi cứ thấy
+[00:43:01] có lúc có tín hiệu không nhưng mà vì cô chẳng thấy ai nói gì
+[00:43:04] cho nên là cô cũng không hỏi
+[00:43:07] thế thì các em thấy nha, ví dụ như là
+[00:43:11] mình nhận dạng mục đích là gì
+[00:43:15] không phải là chúng ta nói đến mục đích là ta phải hướng đến
+[00:43:18] cái ứng dụng nó xa hơn, chúng ta nhận dạng
+[00:43:21] đồ ồn thắc cuối cùng để làm gì, ví dụ như anh Google chẳng hạn
+[00:43:24] thì từ cái đấy cuối cùng là nó dẫn đến định vị người dùng
+[00:43:27] tức là nó cảnh đá cho người dùng, là đấy
+[00:43:30] khi chúng ta xem một cái Google map thì chúng ta thấy là những cái đường
+[00:43:33] mà nó ồn thắc thường xương là nó sẽ giúp cho người dùng đường đi vào cái đường đấy
+[00:43:36] và chúng ta thấy rất là ok, thế thì với anh Google
+[00:43:39] thì nó đang thu theo cái GPS của các thiết bị di động
+[00:43:46] di động thì bởi vì sao? Vì là ví dụ như là
+[00:43:49] dựa vào GPS mà nó thấy rằng là tại một cái GPS đấy mà
+[00:43:52] các cái quá nhiều phương tiện nó đứng yên tại chỗ chẳng hạn
+[00:43:56] cái GPS tức là nếu mà cái GPS mà nó thay đổi càng nhanh
+[00:44:00] tức là cái xe nó lưu hành với một cái vật tốc càng lớn
+[00:44:03] đúng không? Còn nếu mà cái GPS mới nó thay đổi
+[00:44:06] rất chậm thì chứng tỏ rằng là những cái phương tiện ở trong cái đoạn
+[00:44:09] đấy nó gần như là nó đứng im nó không di chuyển được, hoặc là di chuyển
+[00:44:12] với lại cái tốc độ rất là nhỏ
+[00:44:16] thì nó kết luận rằng là tùy theo cái tốc độ đấy thì
+[00:44:19] nó sẽ căn cứ vào cái mức độ cảnh báo, nếu mà cảm giác
+[00:44:22] như là đứng im thì nó sẽ là màu đỏ, để còn
+[00:44:25] vẫn nhúc dịch được thì có thể nó sẽ là màu vàng
+[00:44:28] thế mà xe mà các cái phương tiện nó đều lưu thông
+[00:44:31] không có một cái chỗ nào mà nhiều cái phương tiện dừng ở một chỗ chẳng hạn
+[00:44:35] nếu mỗi một người lái xe thì chả có vài cái một hai cái điện thoại
+[00:44:39] đúng không? Thế thì nó sẽ báo được là
+[00:44:42] nếu mà lưu thông bình thường mà không có quá nhiều cái
+[00:44:46] cái điện thoại tập trung ở một chỗ chẳng hạn
+[00:44:49] GPS tập trung ở một chỗ thì nó báo đấy là lần
+[00:44:52] cho thông bình thường đúng không? Vì ngoài cái kỹ thuật mà
+[00:44:55] nhưng mà không phải ai cũng lấy được cái GPS đấy đâu
+[00:44:58] bởi vì nó phải là từ cái hãng điện thoại
+[00:45:01] từ cái nó phải cấp quyền cho thì mình mới lấy được
+[00:45:04] chứ còn mình không thì làm sao mình biết được GPS của mình khác
+[00:45:07] mình sao biết được điện thoại của mình khác
+[00:45:10] có một cái kiểu là một cái cách dễ làm hơn mà không cần
+[00:45:13] những cái gọi là phải được cho phép của các cái hãng
+[00:45:16] đấy thì hạ Google chẳng hạn ấy thì mình có thể
+[00:45:19] Các cơ hội có một cái camera, thì nó cũng xác định được ôn tắc mà.
+[00:45:23] Ví dụ nó dùng đếm, nó cao, nó đếm phương tiện trong một cái khung hình,
+[00:45:28] trong phạm vi theo dõi của cái camera đấy.
+[00:45:31] Chẳng hạn như là mình có thể đặt cái ngưỡng là số phương tiện
+[00:45:34] mà đế tếp được ở một cái khung hình đấy,
+[00:45:36] mà khoảng một nghìn phương tiện người ta coi là nó đang dừng đến đỏ hoặc đang ôn tắc.
+[00:45:41] Nếu như mà chúng ta chỉ nhìn vào ảnh thôi,
+[00:45:44] thì mình chỉ có thể kết luận rằng là cái khu này đang có nhiều xe tập trung,
+[00:45:49] cái mật độ xe ở trên khung hình này rất là đông,
+[00:45:52] nhưng các em không trả lời được là có ôn tắc hay không.
+[00:45:54] Bởi gì là sao? Bởi vì là nếu mà tín hiệu,
+[00:45:58] à, tức là người ta dùng đèn đỏ thì rõ ràng là xe nó ủng chỗ mà, đúng không?
+[00:46:01] Ví dụ cái bài toán ra điện đấy,
+[00:46:04] thì mình xa cái độ chính xác cho cảnh báo đấy,
+[00:46:07] thì mình có thể kết hợp thêm nhận dạng cái tín hiệu đèn giao thông, đúng không?
+[00:46:12] Ví dụ như chúng ta thấy là chỗ này người đang phương viện tập trung đông,
+[00:46:17] nhưng mà tín hiệu đèn lại là màu đỏ,
+[00:46:19] thì rõ ràng là cái chuyện đấy hoàn toàn có thể bình thường,
+[00:46:21] bởi vì người ta đang đứng đèn đỏ, đúng không?
+[00:46:23] Nhưng mà lúc đấy đứng mà là đèn giao thông và lại bố xanh,
+[00:46:26] thì chứng tỏ rằng lúc đấy là đang bị ôn tắc, đúng không?
+[00:46:29] Thì chẳng hạn mình có thể ý ở đây là gì?
+[00:46:32] Khi những bài toán thực tế chúng ta thể áp dụng nhiều cái nguồn dữ liệu vào,
+[00:46:36] thì để nó tăng được cái độ chính xác của thực toàn, đúng không?
+[00:46:39] Thế còn liên quan đến là khi chúng ta đã phát hiện ra được là chỗ này có giao thông tình trạng như thế này,
+[00:46:46] thì lúc đấy chúng ta phải có một cái tàu tác là điều phối giao thông, đúng không?
+[00:46:50] Điều phối giao thông thì chúng ta phải cái trong cái engine của chúng ta,
+[00:46:55] nó lại phải nhận dạng ra được làn đường, đúng không?
+[00:46:58] Thế rồi nhận dạng ra được các cái cung đường để xem ví dụ như là,
+[00:47:04] chẳng hạn khi chỗ này ôn tắc như chúng ta giao thông ở trên đường,
+[00:47:08] ví dụ như là cảnh sát giao thông người ta điều phối,
+[00:47:11] hay chẳng hạn như là chỗ này có thể rẽ được thì người ta sẽ cho ô tô rẽ để nó đi sang một cái đường khác chẳng hạn,
+[00:47:18] có lời ví dụ như thế.
+[00:47:19] Thế thì lúc đấy mình muốn điều phối được, mình không thể điều phối như là bí dụ đường mà nét nền chẳng hạn,
+[00:47:26] mình không thể điều phối được cho nó xem nó rẽ qua cái nét nền đấy,
+[00:47:29] bởi vì như thế là nó sẽ bị phạt ngội ngay lập tức, đúng không?
+[00:47:31] Bởi vì ta rẽ sai làm, thì nó phải kết hợp với nhận dạng làn đường.
+[00:47:35] Cái nhận dạng làn đường đấy thì nó còn có ý nghĩa nữa là ví dụ khi người ta đã chẳng hạn như là công an,
+[00:47:41] người ta lắp hệ thống camera lang sát thì mục đích là người ta phải theo dõi được giao thông là một,
+[00:47:47] cái thứ hai nữa là phải phát hiện được xem là những phương tiện nào đã bị phạm giao thông,
+[00:47:51] ví dụ như là rẽ sai làm, ví dụ như là vượt đèn đỏ, ví dụ như là đi quá tốc độ, đúng không?
+[00:47:59] Thế thì nó sẽ phải có thêm những cái nhận dạng khác, ví dụ như là nhận dạng dựa trên,
+[00:48:07] tức là nhận dạng quá tốc độ thì có thể dựa vào GPS, có thể dựa vào cái mình phát hiện ra,
+[00:48:14] gọi là miền số của cái phương tiện đấy, mình check in theo cái phương tiện đấy,
+[00:48:19] và khi mình check in trong một số cái công hình nào đấy, mình suy ra được,
+[00:48:26] dựa trên GPS thì mình suy ra được cái vận tốc của nó, xem là nó nưu thông với vận tốc bao nhiêu,
+[00:48:31] thì mình có thể kết luận được là nó có bị gọi là vượt qua tốc độ hay không, đúng không?
+[00:48:36] Thế thì hoặc là những cái ứng dụ mà liên quan đến chẳng hạn các em cũng có thể dựa ra các cái demo,
+[00:48:44] chẳng hạn như là để chúng ta phân loại dấu phủ quả chẳng hạn, mình chụp các cái bức ảnh, đúng không?
+[00:48:50] Thế chẳng hạn như là trên đấy mình sẽ phân biệt xem là cái củ quả nào nó còn tốt,
+[00:48:59] cái nào còn tốt, hoặc là cái nào mà đã có dấu hiệu bị hỏng,
+[00:49:03] có lẽ ví dụ như là khi chúng ta chụp bảng khoai tây chẳng hạn, đúng không?
+[00:49:08] Chúng ta để tích nếu mà cái khoai tây đấy nó không có vết gì chẳng hạn, hay là nó còn trắng,
+[00:49:14] thì nó là sản phẩm mà còn dùng được,
+[00:49:17] hoặc là khi mà nó có những cái đốm đen, hoặc là cái màu của nó chuyển sang màu xanh,
+[00:49:24] thì có thể mình phải khuyến tác người dùng nó không được dùng như thế,
+[00:49:27] nó không được dùng những cái sản phẩm đó, chất lửa,
+[00:49:30] vì nó đang ở cái giai đoạn là không đảm bảo sức lượng nữa rồi, đúng không?
+[00:49:37] Thế rồi liên quan đến hoặc là hoặc là hoặc quả chẳng hạn,
+[00:49:42] hoặc là người ta có thể dùng các ứng dụng computer vision hiện nay để phân loại hạt giống,
+[00:49:52] người ta sẽ có những cái ví dụ như là các hạt giống người ta cần phải phân loại xem là
+[00:50:01] những cái hạt giống tốt hay là hạt giống không tốt chẳng hạn,
+[00:50:04] như cái đấy thì nó phải thêm cả những cái sensor khác nữa,
+[00:50:08] chứ còn nếu mà ảnh công thì khả năng là không phát hiện được,
+[00:50:11] nếu chúng ta phân loại, ví dụ như là phân loại nông sản,
+[00:50:15] chúng ta dùng dữ lý ảnh, thì chúng ta lúc mà các em phê báo cáo thì mình nghĩa rỡ,
+[00:50:19] là gì? Chúng ta phải phân loại được nếu bằng hình ảnh,
+[00:50:22] mà chúng ta bắt mắt thường chúng ta phân biệt được,
+[00:50:25] cô lấy ví dụ như là hình ảnh rau chẳng hạn,
+[00:50:30] chúng ta phân loại xem là rau nó còn dùng được hay là nó đã bị hẳn rồi,
+[00:50:36] thế nên chúng ta hoàn toàn là chúng ta phải dựa vào hình ảnh,
+[00:50:39] phải nói được điều đó, thì lúc đấy chúng ta mới làm được hình ảnh,
+[00:50:42] cô lấy ví dụ rau mà nó bị bình thường là một cái mớ rau mà nó còn tốt,
+[00:50:54] có nghĩa là mớ rau đấy còn tươi, còn xanh,
+[00:50:56] còn nếu chúng ta dùng ảnh mà muốn nhận dạng được là cái rau đấy đã hỏng chưa,
+[00:51:01] thì nó phải có dấu hiệu như là rau đấy nó bị úa rồi,
+[00:51:06] bị vàng rồi, nó bị thối rồi,
+[00:51:09] thối thì nó thể hiện là nó có những cái vùng bị đen ở chính cái mớ rau đấy rồi,
+[00:51:14] chúng ta nắm lại là muốn dùng được hình ảnh thì ta phải,
+[00:51:18] về mắt thường thì chúng ta cũng đã phải phân biệt được nó rồi,
+[00:51:22] thì chúng ta mới hy vọng là chúng ta xây dựng được những cái ứng dụng để chúng ta giải quyết được,
+[00:51:28] áp dụng xử lý ảnh, áp dụng AI để chúng ta giải quyết được các bài toán,
+[00:51:32] đấy một cách tự động,
+[00:51:34] còn nếu mắt thường mà không phân biệt được thì chúng ta,
+[00:51:37] máy nó cũng không làm được đâu,
+[00:51:39] ví dụ như là nhận dạng trả thạ như là nhận dạng khói cháy,
+[00:51:48] cũng là những bài toán mà ok,
+[00:51:51] thế rồi, hiện nay thì nó cũng có những cái ứng dụng nhận dạng,
+[00:51:59] như hôm trước cô thấy nó cũng khá là hay,
+[00:52:02] bởi vì như này, các bạn hình dung là như này,
+[00:52:05] một cái ảnh ghép,
+[00:52:10] tức là chúng ta có một cái bước ghép,
+[00:52:12] chẳng hạn như là khi giáo viên người ta dạy trên lớp,
+[00:52:16] tiếng hành chẳng hạn,
+[00:52:17] sau khi dạy với mỗi một bài,
+[00:52:20] thì sẽ có các quick test để xem là học sinh có nắm được bài hay không,
+[00:52:26] ví dụ như là một cái bài học này tương với một bức tranh tổng thể,
+[00:52:32] cô giáo sẽ đưa một cái mảnh ghép của cái bức tranh đó,
+[00:52:38] đưa mảnh ghép,
+[00:52:40] thế thì, ví dụ như là học sinh trả lời,
+[00:52:44] thì mỗi mỗi câu hỏi thì hình ảnh đó sẽ được ghi lại,
+[00:52:47] ghi lại em sao,
+[00:52:48] ví dụ trong bối học hôm nay có 10 câu hỏi,
+[00:52:51] tức là có 10 mảnh ghép,
+[00:52:53] thế mà dựa trên mảnh ghép của học sinh trả lời,
+[00:52:56] thì nếu mà nó sau 10 câu hỏi đấy mà nó gép thành một bức tranh tổng thể,
+[00:53:01] thì có nghĩa rằng là cái học sinh đấy sẽ trả lời đúng được tất cả câu hỏi,
+[00:53:06] thế còn khi mà nó, ví dụ trong cái 10 mảnh ghép đấy,
+[00:53:10] mà nó sai một số vị trí nào đấy,
+[00:53:13] thì sau đấy cái ứng dụ của chúng ta sẽ tổng kết được luôn,
+[00:53:17] là học sinh này trả lời được 7 câu thôi,
+[00:53:20] sai ở cô A, cô B, cô C, dạng hạn, ví dụ như thế,
+[00:53:23] thì đấy là liên quan đến nhận dạng trong ngành giáo dục,
+[00:53:27] tức là những cái ứng dụ mà có major vision trong giáo dục đấy.
+[00:53:30] Thế rồi liên quan đến nụ cộng nhận dạng các cái biển, đường phố,
+[00:53:35] những cái thông tin trụp ở trên đường phố đấy,
+[00:53:38] dạng hạn các bạn thấy là những cái người mà,
+[00:53:42] khách du lịch đến Việt Nam, người ta không biết tiếng Việt,
+[00:53:48] nhưng mà tự nhiên là đi vào một cái phố,
+[00:53:50] không biết tiếng Việt thì mà lại không có tiếng Anh,
+[00:53:53] thế vậy thì làm thế nào để người ta biết người ta đang ở đâu,
+[00:53:56] thì ví dụ trên đấy mình cung cấp những cái app,
+[00:53:59] mình có một xây dựng một cái app,
+[00:54:00] app đấy nó trụp luôn cái biển số đấy,
+[00:54:02] trụp luôn cái biển báo là đường phố đấy,
+[00:54:05] sau khi nó trụp xong rồi nó nhận ra đường phố đấy là gì,
+[00:54:09] xong rồi nó dịch sang tiếng Anh cho người ta để người ta biết,
+[00:54:12] thậm chí nó tích hợp luôn vào trong Google để nó chỉ đường,
+[00:54:15] bây giờ người ta sẽ tạo từ vị trí hiện tại,
+[00:54:18] nó giống như là cái Google Map,
+[00:54:20] rồi vị trí hiện tại thì bây giờ anh không muốn đi đến đâu,
+[00:54:23] chẳng hạn như là người ta sẽ nhập cái địa chỉ của khách sạn,
+[00:54:26] người ta thì mình hoàn toàn chỉ đường cho người ta để người ta đi về được khách sạn người ta,
+[00:54:30] oh đấy là cái cực kỳ hay,
+[00:54:32] mình hình dung là chẳng hạn như bây giờ mình đi sang Trung Quốc chẳng hạn,
+[00:54:37] đa phần bây giờ mình đâu có biết tiếng Trung Quốc,
+[00:54:39] mà đi sang Trung Quốc là cái biển,
+[00:54:42] họ ít biển tiếng Anh lắm,
+[00:54:44] mà toàn toàn là biển Trung Quốc luôn,
+[00:54:47] thì giả sử mình bị lạc chẳng hạn,
+[00:54:49] cô cũng đã từng bị như thế rồi,
+[00:54:51] mình bị lạc,
+[00:54:52] thế bây giờ người Trung Quốc hỏi thì người ta cũng chẳng biết tiếng Anh,
+[00:54:55] thế mà biển thì toàn tiếng Trung Quốc,
+[00:54:57] thế bây giờ mình biết tìm đường để về khách sạn như thế nào,
+[00:55:01] lúc đấy mới có một kế ứng dụng để mình làm được điều đấy,
+[00:55:04] thì đúng là một phương tiện trợ giúp cực kỳ dụ quả,
+[00:55:07] chúng ta làm công nghệ chúng ta có thể nghĩ đến những kế ứng dụng như kiểu như vậy,
+[00:55:11] đúng không?
+[00:55:12] Vậy rồi ở đây cô có nói đến các kế ứng dụng,
+[00:55:15] cô có hướng dẫn về các kế ứng dụng nâng cao,
+[00:55:17] chẳng hạn như là mình sẽ dùng các ý kiến ứng dụng khoảng học sâu để chúng ta làm nét hình ảnh,
+[00:55:23] ngoài những kỹ thuật cơ bản thì có những kỹ thuật hiện nay gọi là image super resolution,
+[00:55:29] tức là mình gọi là tăng gồm độ nét của anh ảnh,
+[00:55:32] thì nó có các mô hình mạng, ví dụ như là mạng SACN, mạng SGAN,
+[00:55:39] rồi mạng GAN, mạng U-net,
+[00:55:44] bạn nào có, chắc chắn là các bạn tìm đề tài về học máy nâng cao,
+[00:55:53] chắc chắn các bạn phải có những kế ứng dụng như vậy,
+[00:55:55] thì các bạn có thể kết hợp vào,
+[00:55:57] làm luôn, đúng không?
+[00:55:58] luôn một kế ứng dụng.
+[00:55:59] Vậy rồi image,
+[00:56:01] image translation,
+[00:56:03] tức là chuyển đổi ảnh từ miền này sang mình khác,
+[00:56:06] thì cô lấy ví dụ đấy,
+[00:56:07] ví dụ như là cô có một cái ảnh là một cái phát họa,
+[00:56:11] một cái bức phát họa,
+[00:56:13] sau khi chúng ta xây dựng một cái ứng dụng,
+[00:56:15] sau khi qua cái ứng dụng của chúng ta,
+[00:56:17] thì nó sẽ chuyển thành một cái ảnh, đúng không?
+[00:56:20] từ một cái phát họa, đúng không?
+[00:56:22] thì nó sẽ trở thành một cái ảnh, ảnh mà thực tế,
+[00:56:27] cô lấy cái này đơn giản nhất,
+[00:56:29] ví dụ như là chẳng hạn chúng ta học quân văn tích tiết kế hệ thống,
+[00:56:33] thì giả sử khi chúng ta đi làm giới ức khách hàng,
+[00:56:36] thì do thời gian làm việc của chúng ta,
+[00:56:38] nó chỉ dưới hạn thôi,
+[00:56:40] thì lúc đấy thường các bạn thích note,
+[00:56:43] là các bạn sẽ ghi một cách là các bạn phát họa ra,
+[00:56:47] cái quy trình chẳng hạn,
+[00:56:48] cái quy trình mà khách hàng muốn mình xây dựng,
+[00:56:50] các cái function,
+[00:56:51] từ đây, từ đây,
+[00:56:52] nó sẽ, cái quy trình đó như thế nào?
+[00:56:54] Thế thì hoàn toàn là các em đã pháu kiến thức về văn tích kế hệ thống, đúng không?
+[00:56:58] Thế thì các em đưa cái ảnh phát họa đấy vào, đúng không?
+[00:57:03] Rồi cộng thêm với những kiến thức của các em,
+[00:57:06] về trong môn văn tích kế hệ thống,
+[00:57:08] và em sẽ trả về kết quả làm một cái bảng phân tích,
+[00:57:11] thiết kế hệ thống đầy đủ,
+[00:57:13] có hay không?
+[00:57:14] Thế thì chúng ta có thể nghĩ đến cái đấy,
+[00:57:16] nó vừa vải ở mức độ của chúng ta,
+[00:57:18] tất nhiên là bây giờ chúng ta đang học,
+[00:57:20] thì không ai yêu cầu lần nó phải chính xác tự đối 100%,
+[00:57:23] nhưng mà các em chọn được những cái ứng dụng mà nó mang ý nghĩa thực tế như vậy,
+[00:57:27] thì cái nói chung là cái công sức của chúng ta bỏ ra nó cũng sẽ đáng, đúng không?
+[00:57:32] Rồi các ứng dụng liên quan đến phát hiện đối tượng,
+[00:57:37] ở trên khu mình này,
+[00:57:39] thì giống như trong bài toán giám sát thì cô vừa mới giải thích rồi,
+[00:57:43] đúng không?
+[00:57:44] Thì chúng ta hoàn toàn có thể lựa chọn.
+[00:57:46] Đấy rồi, những cái bài toán image captioning nhẳng hạn,
+[00:57:49] thế thì chẳng hạn như là cái bài toán này,
+[00:57:53] các em thấy là tôi đưa vào một cái ảnh, đúng không?
+[00:57:58] Tôi cần phải chú thích cho hình ảnh,
+[00:57:59] có nghĩa là mình sẽ phải xác định được nữ nghĩa từ hình ảnh đó,
+[00:58:02] thì cái bài toán đấy gọi là image captioning.
+[00:58:05] Cô lấy ví dụ như thế này,
+[00:58:06] trên Facebook các em có cái ứng dụng,
+[00:58:09] như là khi tôi có một nhóm có một cái ảnh trộm,
+[00:58:13] tôi đưa lên cho nó, tôi hỏi là đây là ở đâu?
+[00:58:16] Thì nó có thể trả lời tôi là gì?
+[00:58:18] Nếu mà khi tôi trộm ở một khung cảnh là đi du lịch chẳng hạn,
+[00:58:23] thì thật tán thường nó sẽ,
+[00:58:26] cái ứng dụng đó sẽ thường trả lời là
+[00:58:28] đây là một nhóm bạn đi du lịch chẳng hạn, đúng không?
+[00:58:30] Bởi vì nó đã detect được cái ngữ cảnh của cái,
+[00:58:33] bởi vì sao? Bởi vì nó detect được là
+[00:58:36] trên cái bức ảnh đấy này có các đối tượng người
+[00:58:39] và những cái đối tượng người đấy thì
+[00:58:42] nó nhận dạng ra là người và cảnh, đúng không?
+[00:58:46] Nó ở một cái địa điểm, khu du lịch chẳng hạn,
+[00:58:49] hoặc là những người đấy thì ví dụ như là khi đi thì
+[00:58:53] thì mặc quần áo thể thao,
+[00:58:55] thường là mặc quần áo thể thao đi rồi,
+[00:58:57] quác balo rồi v.v.v.
+[00:58:59] Vì có thể nó sẽ sâu chuỗi hết tất cả những cái,
+[00:59:02] những cái thông tin đó để nó đưa ra một cái lời giải.
+[00:59:07] Và như hiện nay để mà giải được cái bài toán,
+[00:59:10] cái bài toán image captioning ấy,
+[00:59:12] thì người ta thường sử dụng các cái mô hình NVM, đúng không?
+[00:59:16] NVM có nghĩa là Lab Vision,
+[00:59:19] Language Model,
+[00:59:20] thì các bạn muốn mà bạn nào dọa rồi,
+[00:59:23] muốn tìm hiểu thì các bạn cũng có thể tìm hiểu,
+[00:59:25] như kiếm dụng mà nó mang tìm chất sô ta như vậy, đúng không?
+[00:59:28] Vì vậy, liên quan đến v.v. Questioning Answering,
+[00:59:31] thì nó liên quan đến là ví dụ như là trả lời về nội dung của ảnh,
+[00:59:37] thì nó cũng chính là cái này.
+[00:59:38] V.v. captioning thì image captioning thì hoặc là một cái ứng dụng nữa,
+[00:59:43] mà các bạn thấy là nó sẽ nổi rõ hơn cái tính captioning này.
+[00:59:48] Các bạn nếu mà bạn nào làm dự dựa của ảnh,
+[00:59:50] chẳng hạn như là các bạn có dùng cái công cụ,
+[00:59:53] dùng cái thôn mà nó vậy là Edina Berlin,
+[00:59:57] thì khi mà các em gán nhãn hình này,
+[00:59:59] chẳng hạn như mình kích một cái con chuột vào,
+[01:00:01] vào một cái object,
+[01:00:03] thì lập tức là ở trong cái ứng dụng đấy,
+[01:00:06] bản chất là nó có một cái engine ở trong đấy rồi,
+[01:00:09] nó gọi là SAM,
+[01:00:10] thì khi mình kích vào điểm này,
+[01:00:13] thì nó đã tự phân tích và nó đề tách được là,
+[01:00:15] à, như vậy liên quan đến cái điểm này,
+[01:00:17] thì nó là một cái object,
+[01:00:18] và object này là cái gì, thì nó khoanh cho mình luôn.
+[01:00:22] Và nếu như chúng ta thấy là nó đã đúng rồi,
+[01:00:25] thì mình end một cái,
+[01:00:27] thì coi như chúng ta không,
+[01:00:28] tức là nó giúp cho chúng ta là nâng cao hiệu quả
+[01:00:33] trong cái quá trình mà chúng ta phải gán nhãn hình ảnh.
+[01:00:35] Thì cái đấy cũng là em make captioning.
+[01:00:38] Còn cái visual captioning answering,
+[01:00:41] thì đấy, ví dụ như là đưa vào một cái bức ảnh
+[01:00:45] và nó hỏi nữ nghĩa của bức ảnh,
+[01:00:46] vậy là trả lời được, đúng không?
+[01:00:48] Vậy, hoặc là thế này,
+[01:00:57] hoặc là ví dụ như là các bạn có thể
+[01:01:01] lựa chọn những cái liên quan đến phát hiện các cái
+[01:01:05] khuôn mặt giả mạo chẳng hạn.
+[01:01:07] Các em thấy là hiện nay là,
+[01:01:10] bọn AI nó rất là giỏi,
+[01:01:14] và bọn nửa đảo nó cũng rất là kinh khủng,
+[01:01:16] giống như là các cái giao dịch ở gân hàng ấy,
+[01:01:19] có đúng không?
+[01:01:20] Rõ ràng là nó dùng display,
+[01:01:21] và nó vẫn qua được các cái bộ,
+[01:01:23] gọi là cái BQIC của gân hàng.
+[01:01:26] Dí dọa là sao?
+[01:01:27] Bởi vì ví dụ,
+[01:01:28] khi mà mình,
+[01:01:29] các em hình dung là,
+[01:01:30] chẳng hạn như là hiện nay,
+[01:01:32] các cái app của gân hàng,
+[01:01:33] có đúng không?
+[01:01:34] Khi mình muốn chuyển tiền đi,
+[01:01:36] thì bao giờ nó cũng bắt mình face detection.
+[01:01:39] Có nghĩa là nó sẽ phát hiện các cái,
+[01:01:41] một là các cái đặc điểm của khuôn mặt đấy,
+[01:01:43] xem nó có trùng khớp hay không.
+[01:01:44] Thứ hai nữa,
+[01:01:45] là nó sẽ phát hiện cái in motion trên khuôn mặt,
+[01:01:47] có nghĩa là các cái cử chỉ,
+[01:01:49] các cái chuyển đậm đấy,
+[01:01:50] có ok không?
+[01:01:51] Vì thế cho nên,
+[01:01:52] khi mà chúng ta chuyển tiền,
+[01:01:54] ví dụ như là chuyển với một cái khuả tiền lớn,
+[01:01:57] các em thấy là càng lớn,
+[01:01:59] thì các cái ứng dụng nó càng yêu cầu chúng ta,
+[01:02:01] cái thời gian sắc thực của nó sẽ lâu hơn.
+[01:02:04] Các em biết tại sao không?
+[01:02:06] Bởi vì ví dụ chuyển một cái tiền nhỏ,
+[01:02:09] chẳng hạn như là dưới 10 triệu,
+[01:02:10] thì đương nhiên là nó sẽ không yêu cầu chúng ta phải sắc thực, đúng không?
+[01:02:14] Thế còn chuyển 10 triệu cho lên,
+[01:02:16] nó sẽ yêu cầu chúng ta đặt app vào.
+[01:02:18] Mà chúng ta chuyển 100 triệu,
+[01:02:19] thì chúng ta thấy là cái thời gian sắc thực của nó lâu hơn nhiều.
+[01:02:21] Ví dụ như sao?
+[01:02:22] Bởi vì là,
+[01:02:24] cái số tiền càng lớn,
+[01:02:27] thì cái khả năng dù do của khách hàng,
+[01:02:29] mà ngân hàng phải đảm bảo là càng lớn.
+[01:02:31] Cho nên nó càng phải sắc thực kỹ.
+[01:02:33] Càng sắc thực kỹ có nghĩa là,
+[01:02:34] nó yêu cầu chúng ta khi chúng ta chuyển,
+[01:02:36] thì các bạn thấy rồi,
+[01:02:37] là nó sẽ yêu cầu chúng ta để điện thoại.
+[01:02:40] Đúng không ạ?
+[01:02:41] Để khuôn mặt trước,
+[01:02:42] chúng ta đưa cái điện thoại để nó trục được trực diện khuôn mặt của chúng ta.
+[01:02:46] Thế rồi khi nó trục diện rồi,
+[01:02:48] thì thậm chí là,
+[01:02:50] ví dụ như là trên khuôn ảnh đấy,
+[01:02:53] mà nó có những khuôn mặt của người khác,
+[01:02:56] hoặc là những đối tượng hình thụ gần giống khuôn mặt,
+[01:02:59] là nó cũng sẽ báo luôn với chúng ta là gì.
+[01:03:02] Có nhiều khuôn mặt đang trong khuôn hình,
+[01:03:05] thì thường chúng ta sẽ phải chọn 1 cái chỗ để mà nó,
+[01:03:11] mà chừng nào nó không sắc thực được,
+[01:03:13] thì có lâu đã cho chúng ta chuyển, đúng không?
+[01:03:16] Thế nhưng mà đấy,
+[01:03:18] cái mà,
+[01:03:19] đấy nó chỉ là những tài ứng dụng sắc thực,
+[01:03:22] vậy là cơ bản nhất thôi.
+[01:03:24] Thế còn đấy là đối với người ngay thôi,
+[01:03:27] chứ còn mà tại sao hiện nay chúng ta thấy rằng là
+[01:03:31] nó có 1 xâu mối thuộc video call,
+[01:03:33] mà nó lại lấy được hết tiền ở trong tài khoản, đúng không?
+[01:03:37] Bởi vì là sao?
+[01:03:38] Bởi vì là cái việc mà,
+[01:03:41] cái bọn lừa đảo khi nó video call chúng ta,
+[01:03:44] để nó làm gì?
+[01:03:45] Để mà nó bắt chúng ta giao tiếp với nó bằng cái khuôn mặt của chúng ta.
+[01:03:49] Có nghĩa là nó sẽ từ cái hình ảnh mà nó thu được khi chúng ta giao tiếp
+[01:03:54] bằng video call với nó,
+[01:03:55] nó sẽ để nó qua cái AI,
+[01:03:57] nó dựng lên toàn bộ cái default, đúng không?
+[01:04:00] Gọi là cái default,
+[01:04:02] nó dùng các thần thoản default,
+[01:04:04] nó phái tạo lại hoàn toàn cái khuôn mặt của chúng ta,
+[01:04:07] giống hệt cái hình ảnh đó luôn.
+[01:04:09] Thậm chí là gì?
+[01:04:10] Cái khuôn mặt đấy nó đưa về dưới dạng là hình ảnh thực luôn.
+[01:04:18] Vì khi bắt đầu là nó lấy được cái thông tin đấy rồi,
+[01:04:22] thì bắt đầu là hoàn toàn nó lấy được số tài khoản của chúng ta,
+[01:04:26] thì hoàn toàn nó có thể thực hiện các lệnh chuyển tiền.
+[01:04:30] Và khi áp ngân hàng mà nó yêu cố sắc thực,
+[01:04:33] thì chính những cái khuôn mặt phách đấy,
+[01:04:38] nó có khả năng bước qua dễ dàng cả cái thuật toán sắc thực luôn.
+[01:04:43] Vì nó xây, nó đưa ra cái hình nó í thật mà.
+[01:04:49] Xong khi nó lấy thông tin được,
+[01:04:51] nó gọi video call cho mình,
+[01:04:52] nó lấy được thông tin, thậm chí là nó không video call cho mình.
+[01:04:56] Nhưng mà vì sao?
+[01:04:57] Người ta lại khuyên là hiện nay hạn chế mình public thông tin trên facebook
+[01:05:02] và trên các nền tả mạng xã hội.
+[01:05:04] Vì khi các em đưa cái video,
+[01:05:07] có khuôn mặt của các em lên,
+[01:05:09] hoàn toàn nó có thể dùng defect để nó dựng lên hoàn toàn khuôn mặt của các em,
+[01:05:15] một cách đầy đủ, thậm chí nó dựng video trước khuôn mặt của các em.
+[01:05:19] Cho nên là mới có chuyện là gì?
+[01:05:21] Gọi video call đến phụ huynh,
+[01:05:23] chẳng hạn như là có những câu chuyện mà ví dụ có con đi học ở nước ngoài,
+[01:05:28] nó gọi đến, nó bảo là mẹ con hết tiền rồi truyền tiền cho con.
+[01:05:32] Cuối cùng truyền tiền nhưng có phải truyền cho con mình đâu,
+[01:05:34] truyền cho bọn nơi đảo.
+[01:05:36] Vì vậy, công nghệ hiện nay nó cực kỳ phát triển.
+[01:05:39] Vì vậy, có một cách nào đấy mà mình phát hiện ra những cái khuôn mặt giả mạo chẳng hạn.
+[01:05:49] Và đã tính được cái độ chính xác như hiện nay,
+[01:05:51] vượt qua được cái bọn defect đấy thì chắc chắn chúng ta có thể bán được tiền.
+[01:05:59] Vì vậy, những kiếm dụng tạo ảnh mua 3D từ 2D,
+[01:06:05] chẳng hạn như các bạn thấy là,
+[01:06:07] cũng giống một cái ví dụ vừa rồi cô nói,
+[01:06:10] ví dụ chúng ta có một cái bản vẽ của một cái công trình di dựng,
+[01:06:14] người ta chỉ là cái bản vẽ 2D thôi,
+[01:06:16] thì qua cái mồi hình của chúng ta, nó trở thành một cái bản vẽ 3D, hoàn chỉnh.
+[01:06:20] Cái đấy hiện nay là các cái ứng dụng AI nó đã làm được rồi.
+[01:06:24] Cũng ta cũng có thể tìm hiểu mà, chúng ta không thể tìm hiểu những cái đâu.
+[01:06:28] Thậm chí là chúng ta có thể tìm hiểu sâu hơn, kỹ hơn,
+[01:06:31] chúng ta có thể kết nối nhiều cái thuật tán lại để chúng ta giải quyết được một cái bài tán trợ lệ hơn.
+[01:06:39] Nhưng mà đấy là tương lai xa.
+[01:06:41] Nhưng mà gần đấy là gì?
+[01:06:42] Ví dụ tương lai xa là gì?
+[01:06:43] Chúng ta có thể làm thế đấy bằng các cái đời đài đuôn thốt nghiệp.
+[01:06:47] Nhưng mà hiện tại với cái môn này, chúng ta chỉ cần là gì?
+[01:06:51] Là đây, cô cho vào một cái ảnh 2D, mình đưa ra, chuyển nó về 3D.
+[01:06:56] Là cái cách thức người ta làm như thế nào?
+[01:06:59] Vì là các em viết ra và các em đề mô được cái chuyện đấy là cũng là ok rồi.
+[01:07:03] Chưa cần bài tán, nó hoàn thiện hắn.
+[01:07:07] Ê rồi, liên quan đến các bài tán mà giữ ý ảnh y thế chẳng hạn.
+[01:07:11] Nếu mà các bạn lên trên mạng, lên trên gít háp, rồi lên trên ca hồ, hoặc là các nguồn tài liệu khác.
+[01:07:20] À, ở đây nhé.
+[01:07:22] Bây giờ thì cô nghĩ rằng là các em đã đang phối rồi.
+[01:07:26] Vì việc mà các em khai thác bức liệu trên ca hồ, nó không còn là vấn đề với chúng ta nữa, đúng không?
+[01:07:32] Thậm chí là các bạn còn dùng ca hồ, dùng cái GPU miễn phí của ca hồ để các em hóa nguyện mà.
+[01:07:40] Vì hoàn toàn là cái ca hồ, nó sẽ là một nguồn để các em tìm các tài liệu trên đấy.
+[01:07:45] Tìm các nguồn dữ liệu trên đấy thì chúng ta xử lý.
+[01:07:47] Ví dụ tất cả các bài tán hô liệt kể ở đây thì khả năng ca hồ cũng đã có những tập dữ liệu, đã public các tập dữ liệu liên quan rồi.
+[01:07:55] Ví dụ liên quan đến ảnh giả mạo chẳng hạn cũng có.
+[01:08:00] Ví dụ liên quan đến ảnh y tế cũng có, như gọi là ảnh Daycom.
+[01:08:07] Chúng ta chịu khó tìm hiểu, chúng ta lấy được tập dữ liệu, chuẩn về chúng ta nghiên cứu, chúng ta tìm hiểu tập tán.
+[01:08:13] Rụng lên thành đề mô, rụng lên báo cáo, thì đấy là công sức của các em.
+[01:08:19] Ví dụ liên quan đến các bài tán về xử lý ảnh y tế.
+[01:08:29] Ở đây cũng có một số mãng hồn ở đâu, ở đây cũng có đưa cái này vào gộp lại.
+[01:08:34] Vì vậy về cơ bản thì các em chỉ cần sử dụng cái file này thôi, cái file gợi ý sẽ dạy tài như cô gộp lại cái gì rồi.
+[01:08:41] Ở đây cô có liệt kết rất nhiều tài nguyên mà các em có thể vào đấy chắc ý.
+[01:08:48] Được chưa ạ, đấy rồi những cái bài tán gợi ý.
+[01:08:50] Rồi ok, bây giờ các em xem có hai cái điều cho chúng ta.
+[01:08:57] Một là vào kiểm tra xem cho cô xem là danh sách đề tài các em đã nhận được chưa?
+[01:09:03] Cái thứ hai là các nhóm mình sẽ nhận nhóm với nhau đi.
+[01:09:07] Và bàn với nhau xem là mình định lựa chọn cái đề tài nào.
+[01:09:11] Và có cái câu hỏi gì cho cô thì các em hỏi luôn đi.
+[01:09:14] Có cần không các em, hay là chúng ta đi vào cái bài tán về phân vùng.
+[01:09:19] Về cái phần phân vùng là cô chưa dạy.
+[01:09:22] Nhưng mà vì cô sợ là hết thời lượng cô lên lớp ấy.
+[01:09:25] Cho nên là cô muốn dành cái thời gian để cho các em hỏi đáp để chúng ta chuẩn bị được cái bài báo cáo vũ kỳ nó tốt ấy.
+[01:09:31] Các bạn muốn như thế nào?
+[01:09:35] Bây giờ là khoảng hai rưỡi này.
+[01:09:41] Như thế nào nó có hiệu quả các em?
+[01:09:43] Cô ơi, nếu mà chọn chung đề tài thì được không cô?
+[01:09:47] Chọn chung đề tài nhưng mà nó không thể giống chung nhau hoàn toàn.
+[01:09:51] Cô lấy ví dụ nha.
+[01:09:53] Chung đề tài ý của em nói như thế nào?
+[01:09:55] Cứ nhất nha, cô giới hạn luôn nè.
+[01:09:57] Tên đề tài, cô lấy ví dụ không nên để giống hệt nha.
+[01:10:02] Cô lấy ví dụ như này nha.
+[01:10:04] Đơn giản là tìm hiệu thuật toán, nhận dạng khuôn mặt.
+[01:10:09] Đúng không?
+[01:10:10] Thì không có hai nhóm đều ghi như thế được.
+[01:10:13] Nếu trường hợp chung như thế thì các em rõ tách mặt ra cho cô.
+[01:10:17] Tìm hiểu thuật toán, nhận dạng khuôn mặt bằng mô hình 1 state chẳng hạn.
+[01:10:25] Tìm hiểu bài toán phát hiện khuôn mặt bằng mô hình 2 states.
+[01:10:28] Hoặc là các em biết rõ cái phương pháp ra.
+[01:10:30] Các em định tìm hiểu ra.
+[01:10:32] Chỗ này là Zolo, chỗ này là A-CNN, có lẽ là Max A-CNN.
+[01:10:37] Được chưa?
+[01:10:38] Ý của cô là không được chung hoàn toàn.
+[01:10:40] Hiểu ý cô nhỉ?
+[01:10:47] Giữ liệu, bài toán có thể giống nhau nhưng mà giữ liệu và phương pháp, hoặc là giữ liệu có thể giống nhau, bài toán có thể giống nhau nhưng phương pháp phải khác nhau.
+[01:10:56] Được chưa?
+[01:11:02] Hoặc là một bài toán ví dụ phương pháp thì chúng ta có thể giống nhau nhưng mà giữ liệu xử lý chúng ta phải khác nhau.
+[01:11:10] Có lẽ ví dụ thế.
+[01:11:18] Hoặc là mục đích ứng dụng của bài toán cũng phải khác nhau.
+[01:11:20] Rõ chưa em nhỉ?
+[01:11:29] Rồi hỏi về chung đề tài đã rõ chưa?
+[01:11:31] Vâng, vâng ạ.
+[01:11:33] Ok.
+[01:11:34] Thế bây giờ các bạn muốn cô dành thời gian để chúng ta xem rồi cô sẽ giải đáp.
+[01:11:39] Hôm nay chúng ta cũng có thể học quá giờ.
+[01:11:41] Nghĩa là chúng ta học đến 5 giờ nhưng mà các bạn còn vấn đề thì cô có thể ngồi với các bạn cho đến khi nào mà các bạn cảm thấy rằng là yên tâm để chúng ta build các cái bố dịch cuối kỷ và viết tài liệu.
+[01:11:58] Các bạn muốn như thế nào cô dạy bài mới luôn hay là để thời gian cho chúng ta trao đổi đã?
+[01:12:05] Thời gian thảo luận ạ.
+[01:12:09] Ờ thế thì khoảng bao lâu nhỉ?
+[01:12:11] Bây giờ là 2h30, khoảng bao lâu?
+[01:12:13] Chúng ta bắt đầu quay trở lại để các nhóm có thể đặt câu hỏi.
+[01:12:19] Các em cần thời gian bao lâu?
+[01:12:21] Cứ thoải mái nhé.
+[01:12:23] Bởi vì tối nay cô cũng không có biết lịch gì.
+[01:12:27] Nên là chúng ta muốn quan trọng là chúng ta giải quyết được sang phung điều thôi.
+[01:12:32] Thôi được rồi.
+[01:12:33] Bây giờ như thế này đi.
+[01:12:37] Cô cũng chẳng cần giới hạn thời gian đâu.
+[01:12:38] Cô vẫn ngồi đây làm việc.
+[01:12:40] Thế thì các em trong quá trình thảo luận, có câu hỏi gì thì cứ đặt luôn nhé.
+[01:12:44] Ok hông?
+[01:12:45] Vâng ạ.
+[01:12:46] Ừ nhé.
+[01:12:48] Thảo luận với nhau đi, nội chọn nhau đi.
+[01:12:50] Tí cô vào cô xem danh sách nội chọn như thế nào nhé.
+[...] (đoạn điểm danh đã lược bỏ)

@@ -1,0 +1,10 @@
+import cv2
+img = cv2.imread(r"D:\uni\Image Processing\source\tach_anh.png", cv2.IMREAD_COLOR)
+blue,green,red = cv2.split(img)
+cv2.imshow('Blue Channel',blue)
+cv2.waitKey(0)
+cv2.imshow('Green Channel', green)
+cv2.waitKey(0)
+cv2.imshow('Red Channel', red)
+cv2.waitKey(0)
+cv2.destroyAllWindows()

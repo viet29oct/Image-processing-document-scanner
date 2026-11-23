@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+.vscode/
+*.zip
+*.mp4
+*.wav
+# ảnh gốc từ điện thoại (nặng) — chỉ commit bản đã resize trong data/raw
+data/original/
+.env
+.claude/settings.local.json
+Thumbs.db
