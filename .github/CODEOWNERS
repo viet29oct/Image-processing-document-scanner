@@ -1,3 +1,0 @@
-# Chỉ Phi và Việt có quyền duyệt/merge. Huấn tạo PR, không tự merge.
-# Chỉ có tác dụng khi chủ repo bật "Require review from Code Owners" trong branch protection (xem docs/PROCESS.md).
-* @viet29oct @BoBeefsteakk

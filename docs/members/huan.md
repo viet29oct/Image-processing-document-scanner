@@ -7,7 +7,7 @@
 - Cảnh báo chất lượng ảnh (mờ, quá xa, lệch) → `src/snapdocs/quality.py` (T09)
 - **Viết báo cáo chính (T14b, 3/1):** dựng xương sống báo cáo, ghép phần kỹ thuật của Phi và Việt (nhận trước 29/12), thống nhất văn phong; tự viết phần PP2 và chất lượng ảnh (T14a). Dùng agent `report-writer`, chỉ trích số liệu từ `experiments/results/`
 - Bàn giao bản nháp cho Việt duyệt trước 3/1
-- **Chỉ tạo commit và PR; không có quyền merge.** Push nhánh `dev/huan`, mở PR vào `main`, nhờ Phi hoặc Việt xem rồi merge
+- **Chỉ tạo commit và PR; không có quyền merge.** Push nhánh `dev/huan`, mở PR vào `main`, nhờ Phi hoặc Việt xem nhanh rồi merge
 
 ## Cần đọc/học
 - Slide Ch2: threshold đơn giản, Adaptive, Otsu (slide 16–24)

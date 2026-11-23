@@ -8,7 +8,7 @@
 - GUI hai cửa sổ → `app/` (T11)
 - Viết phần dữ liệu, đánh giá, GUI trong báo cáo (T14a, gửi Huấn trước 29/12)
 - **Tổng hợp và duyệt báo cáo (T14c, 6/1):** nhận bản nháp của Huấn, kiểm mọi số với `experiments/results/`, đối chiếu mô tả phương pháp với code và `docs/spec.md`, góp ý, chốt bản nộp
-- Làm slide từ báo cáo (T15, 8/1); có quyền merge PR (cùng Phi); merge PR của Huấn và Phi, không tự merge PR của mình
+- Làm slide từ báo cáo (T15, 8/1); có quyền merge PR (cùng Phi), được tự merge PR của mình; merge PR của Huấn sau khi xem nhanh
 
 ## Cần đọc/học
 - Tkinter cơ bản (hoặc OpenCV HighGUI nếu muốn nhẹ hơn)

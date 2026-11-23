@@ -68,7 +68,7 @@ Bản nhẹ cho môn 2 tín. Đầy đủ: [docs/PROCESS.md](docs/PROCESS.md).
 - Mỗi người một nhánh dài hạn: `dev/huan`, `dev/phi`, `dev/viet`. Việc nhỏ có thể tách `feat/<tên-việc>`.
 - **Quy tắc bắt buộc: mỗi thành viên phải push lên nhánh `dev/<tên>` của mình.** Cuối mỗi buổi làm việc chạy `git push origin dev/<tên>`, kể cả khi chưa xong (ghi WIP trong commit); ít nhất mỗi tuần có commit mới. Không để code chỉ nằm trên máy cá nhân.
 - Merge PR kiểu merge commit (không squash) vì nhánh `dev/*` sống lâu.
-- **Quyền merge: chỉ Phi và Việt.** Huấn chỉ tạo commit và PR, không tự merge. Người merge không phải tác giả PR (PR của Huấn: Phi hoặc Việt xem rồi merge; PR của Phi: Việt merge; PR của Việt: Phi merge).
+- **Quyền merge: chỉ Phi và Việt**, được tự merge PR của mình, không cần check chéo. Huấn chỉ tạo commit và PR, không có quyền merge; PR của Huấn do Phi hoặc Việt xem nhanh rồi merge.
 - Commit: `<phạm vi>: <mô tả ngắn>` (ví dụ `detect: thêm Canny + Contour`), một commit một ý.
 - Trước khi mở PR: `python -m pytest tests -q` qua, không lẫn ảnh nặng, `.venv`, thông tin cá nhân.
 

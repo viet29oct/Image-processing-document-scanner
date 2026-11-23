@@ -18,7 +18,7 @@ Bài tập lớn môn Nhập môn xử lý ảnh (2 tín), nhóm 15. Thi/nộp: 
 - Phương pháp 1–2 là bắt buộc; Hough là tuỳ chọn. Không làm OCR (nhóm khác đã làm).
 - Mỗi phương pháp: một hàm `detect(image) -> 4 điểm | None` (xem `src/snapdocs/__init__.py`).
 - Không commit ảnh gốc > 1600 px, không commit `.venv`, không commit bí mật/thông tin cá nhân (repo công khai).
-- Mỗi người làm trên nhánh `dev/<tên>` và **phải push nhánh đó cuối mỗi buổi làm việc** (kể cả WIP); vào `main` qua PR, merge commit. **Chỉ Phi và Việt được merge; Huấn chỉ tạo commit và PR**, không ai tự merge PR của mình. Quy trình: `docs/PROCESS.md`.
+- Mỗi người làm trên nhánh `dev/<tên>` và **phải push nhánh đó cuối mỗi buổi làm việc** (kể cả WIP); vào `main` qua PR, merge commit. **Chỉ Phi và Việt được merge (được tự merge PR của mình); Huấn chỉ tạo commit và PR**, PR của Huấn do Phi hoặc Việt merge. Quy trình: `docs/PROCESS.md`.
 
 ## Đọc khi cần
 `docs/CONVENTIONS.md` (môi trường, thông số, quy ước; hằng số ở `src/snapdocs/config.py`) · `docs/DECISIONS.md` · `docs/PROCESS.md` · `docs/TASKS.md` · `docs/members/<tên>.md` · `docs/reference/yeu-cau-giang-vien.md`

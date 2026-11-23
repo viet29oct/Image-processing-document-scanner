@@ -5,13 +5,13 @@ Bản nhẹ cho môn 2 tín. Mục đích: ai cũng biết mình làm gì, làm 
 ## 1. Nhánh và PR
 - `main`: luôn chạy được. Không commit thẳng.
 - Mỗi người một nhánh dài hạn: `dev/huan`, `dev/phi`, `dev/viet`. Việc nhỏ có thể tách `feat/<tên-việc>` từ nhánh của mình.
-- Vào `main` bằng PR, ít nhất **1 người khác** xem qua (xem nhanh 5–10 phút, không cần review nghiêm).
-- **Quyền merge: chỉ Phi và Việt.** Huấn chỉ tạo commit và PR, **không tự merge** (kể cả PR của mình). Người merge không phải là tác giả của PR: PR của Huấn do Phi hoặc Việt xem rồi merge; PR của Phi do Việt merge; PR của Việt do Phi merge.
+- Vào `main` bằng PR.
+- **Quyền merge: chỉ Phi và Việt.** Hai người **được tự merge PR của mình, không cần check chéo**. Huấn chỉ tạo commit và PR, **không có quyền merge**: PR của Huấn do Phi hoặc Việt xem nhanh (5–10 phút) rồi merge.
 - Merge kiểu **merge commit** (không squash), vì nhánh `dev/*` sống lâu; squash làm nhánh lệch với `main` và gây xung đột lặp lại. Commit message ngắn, tiếng Việt hoặc Anh đều được: `detect: thêm phương pháp Canny+Contour`.
 - Trước khi mở PR: `python -m pytest tests -q` qua, không còn file rác (ảnh nặng, `.venv`).
 - **Quy tắc bắt buộc: mỗi thành viên phải push lên nhánh `dev/<tên>` của mình.** Cuối mỗi buổi làm việc phải `git push origin dev/<tên>`, kể cả khi chưa xong (ghi WIP trong commit). Không để code chỉ nằm trên máy cá nhân; ít nhất mỗi tuần phải có commit mới trên nhánh của mình. Người duyệt dựa vào nhánh để biết tiến độ thật.
 
-**Ép quyền merge trên GitHub (Việt làm, cần quyền admin repo):** quy tắc trên mới chỉ là thỏa thuận. Để GitHub thực thi, vào **Settings → Branches → Add branch protection rule** cho `main`: bật *Require a pull request before merging* + *Require review from Code Owners* (file `.github/CODEOWNERS` đã liệt kê Phi và Việt), và nếu có tuỳ chọn *Restrict who can push to matching branches* thì chỉ thêm Phi và Việt. Chưa bật thì cả nhóm tự giữ đúng quy tắc.
+**Ép quyền merge trên GitHub (Việt làm, cần quyền admin repo):** quy tắc trên mới chỉ là thỏa thuận. Để GitHub thực thi, vào **Settings → Branches → Add branch protection rule** cho `main`: bật *Require a pull request before merging* (để số duyệt bắt buộc là **0**, vì Phi và Việt được tự merge), và bật *Restrict who can push to matching branches* chỉ thêm Phi và Việt (merge PR tính là push vào `main`). Nếu repo không có tuỳ chọn *Restrict*, cả nhóm tự giữ đúng quy tắc. Không bật *Require review from Code Owners* vì sẽ chặn việc tự merge.
 
 ## 2. Task và checklist
 - Việc nằm trong [TASKS.md](TASKS.md): ID, người làm, hạn, checklist hoàn thành, trạng thái (`todo` / `doing` / `done`).
