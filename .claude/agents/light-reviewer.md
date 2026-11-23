@@ -11,6 +11,5 @@ Kiểm tra theo thứ tự:
 2. Đúng chữ ký `detect(image) -> 4 điểm | None`, thứ tự điểm chuẩn.
 3. Có test, `python -m pytest tests -q` qua.
 4. Không có ảnh > 1600 px, `.venv`, file nhị phân lớn, thông tin cá nhân hoặc bí mật.
-5. Người viết có đủ phần giải thích (xem `docs/members/<tên>.md`, mục "Phải giải thích được khi thi").
 
 Báo ngắn: `OK` hoặc danh sách lỗi cụ thể kèm file:dòng. Chỉ nêu lỗi đã tự kiểm chứng.

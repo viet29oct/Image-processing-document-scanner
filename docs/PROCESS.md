@@ -18,7 +18,6 @@ Bản nhẹ cho môn 2 tín. Mục đích: ai cũng biết mình làm gì, làm 
 - [ ] Có hàm `detect(image) -> 4 điểm | None` đúng chữ ký.
 - [ ] Có test trên ảnh tổng hợp.
 - [ ] Đã chạy được trên bộ ảnh thật, có ảnh minh hoạ thành công và thất bại.
-- [ ] Người làm viết được 5–10 dòng giải thích: dùng kỹ thuật nào, tham số nào, vì sao, khi nào hỏng.
 
 ## 4. Cuộc họp và liên lạc
 - Họp ngắn 15 phút mỗi tuần (hoặc nhắn nhóm): tuần trước xong gì, tuần này làm gì, vướng gì.

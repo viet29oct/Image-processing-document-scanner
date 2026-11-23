@@ -77,7 +77,6 @@ Bản nhẹ cho môn 2 tín. Đầy đủ: [docs/PROCESS.md](docs/PROCESS.md).
 - [ ] Có hàm `detect(image) -> 4 điểm | None` đúng chữ ký
 - [ ] Có test trên ảnh tổng hợp
 - [ ] Chạy được trên bộ ảnh thật, có ảnh minh hoạ thành công và thất bại
-- [ ] Người làm viết được 5–10 dòng giải thích: kỹ thuật nào, tham số nào, vì sao, khi nào hỏng
 
 **Họp và mốc**
 - Họp 15 phút mỗi tuần (hoặc nhắn nhóm): tuần trước xong gì, tuần này làm gì, vướng gì.
