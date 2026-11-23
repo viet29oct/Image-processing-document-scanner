@@ -7,7 +7,7 @@ Phân luồng: **A** = phương pháp 1 + warp + enhance · **B** = phương ph�
 | ID | Việc | Người | Hạn | Checklist xong | Trạng thái |
 |---|---|---|---|---|---|
 | T01 | Chốt đề tài trong sheet đăng ký (tên + nội dung) | cả nhóm | 29/11 | Sheet đã cập nhật đúng tên đã chốt | todo |
-| T02 | Dựng khung repo, quy trình, nhánh | Phi | 29/11 | Có cấu trúc, docs, nhánh `dev/*` | doing |
+| T02 | Dựng khung repo, quy trình, nhánh | Phi | 29/11 | Có cấu trúc, docs, nhánh `dev/*` | done |
 | T03 | Chụp và resize ảnh (≥ 40 ảnh, 5 điều kiện) | Việt (+ cả nhóm chụp) | 6/12 | Ảnh trong `data/raw/`, đặt tên đúng quy ước | todo |
 | T04 | Phương pháp 1: Canny + Contour + approxPolyDP | Phi | 6/12 | `detect_canny.detect` + test + ảnh minh hoạ | todo |
 | T05 | Perspective warp | Phi | 6/12 | `warp.warp` + test với góc biết trước | todo |
