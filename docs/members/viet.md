@@ -6,6 +6,9 @@
 - Chụp và quản lý dữ liệu (T03), công cụ đánh dấu 4 góc chuẩn (T07)
 - Đánh giá và so sánh → `experiments/run_compare.py`, `src/snapdocs/evaluate.py` (T08)
 - GUI hai cửa sổ → `app/` (T11)
+- Viết phần dữ liệu, đánh giá, GUI trong báo cáo (T14a, gửi Huấn trước 29/12)
+- **Tổng hợp và duyệt báo cáo (T14c, 6/1):** nhận bản nháp của Huấn, kiểm mọi số với `experiments/results/`, đối chiếu mô tả phương pháp với code và `docs/spec.md`, góp ý, chốt bản nộp
+- Làm slide từ báo cáo (T15, 8/1); duyệt/merge PR vì là chủ repo
 
 ## Cần đọc/học
 - Tkinter cơ bản (hoặc OpenCV HighGUI nếu muốn nhẹ hơn)

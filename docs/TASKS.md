@@ -4,6 +4,18 @@ Phân công dưới đây là **đề xuất**, nhóm duyệt/đổi trong tuầ
 
 Phân luồng: **A** = phương pháp 1 + warp + enhance · **B** = phương pháp 2 + cảnh báo chất lượng · **C** = dữ liệu + nhãn + đánh giá + GUI.
 
+## Vai trò và công việc chính
+
+| Người | Luồng | Công việc chính (code) | Vai trò báo cáo |
+|---|---|---|---|
+| **Phi** | A | T04 Canny + Contour, T05 warp, T10 enhance | Viết phần kỹ thuật của mình (PP1, warp, enhance) gửi Huấn |
+| **Huấn** | B | T06 Otsu/Adaptive + Morphology + Hull, T09 cảnh báo chất lượng | **Viết báo cáo chính** (chủ biên): xương sống, phần PP2 + chất lượng, ghép phần của người khác |
+| **Việt** | C | T03 dữ liệu, T07 công cụ nhãn, T08 đánh giá, T11 GUI | **Tổng hợp và duyệt báo cáo**: kiểm số liệu với `experiments/`, đối chiếu spec, chốt bản nộp; làm slide từ báo cáo |
+
+Việt cũng là chủ repo nên duyệt/merge PR cùng với người được chỉ định xem PR.
+
+## Bảng task
+
 | ID | Việc | Người | Hạn | Checklist xong | Trạng thái |
 |---|---|---|---|---|---|
 | T01 | Chốt đề tài trong sheet đăng ký (tên + nội dung) | cả nhóm | 29/11 | Sheet đã cập nhật đúng tên đã chốt | todo |
@@ -19,8 +31,10 @@ Phân luồng: **A** = phương pháp 1 + warp + enhance · **B** = phương ph�
 | T11 | GUI hai cửa sổ | Việt | 27/12 | Chọn ảnh, chọn phương pháp, xem kết quả | todo |
 | T12 | (tuỳ chọn) Phương pháp 3: Hough Line | ai còn thời gian | 27/12 | Chỉ làm nếu T04–T11 xong | todo |
 | T13 | **Dừng thêm tính năng** | cả nhóm | 27/12 | Không merge tính năng mới sau mốc này | todo |
-| T14 | Viết báo cáo | Phi (chủ biên) + mỗi người viết phần mình | 3/1 | Có đủ mục, hình/bảng từ `experiments/` | todo |
-| T15 | Slide + demo thử | cả nhóm | 8/1 | Chạy demo trọn vẹn 1 lần | todo |
+| T14a | Mỗi người viết phần kỹ thuật của mình (Phi: PP1, warp, enhance · Việt: dữ liệu, đánh giá, GUI · Huấn: PP2, chất lượng) gửi Huấn | Phi, Việt, Huấn | 29/12 | Mỗi phần có mô tả phương pháp đúng với code, hình/bảng từ `experiments/` | todo |
+| T14b | **Viết báo cáo chính**: xương sống, ghép các phần, văn phong thống nhất | Huấn | 3/1 | Bản nháp đủ mục (đặt vấn đề, lý thuyết, phương pháp, dữ liệu, kết quả, thảo luận, kết luận) | todo |
+| T14c | **Tổng hợp và duyệt báo cáo**: kiểm số liệu, đối chiếu spec/code, chốt bản nộp | Việt | 6/1 | Mọi số khớp `experiments/results/`; không còn mục `CHƯA CÓ SỐ LIỆU`; bản cuối đã chốt | todo |
+| T15 | Slide + demo thử | Việt làm slide từ báo cáo; cả nhóm demo thử | 8/1 | Chạy demo trọn vẹn 1 lần | todo |
 | T16 | Tuần đệm: sửa lỗi, luyện hỏi đáp | cả nhóm | 10/1 | Mỗi người giải thích được phần mình | todo |
 
 Thi/nộp: **12/01/2027** (hình thức chính xác: chưa rõ, cần hỏi GV).

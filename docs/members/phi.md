@@ -6,7 +6,8 @@
 - Phương pháp 1: Canny + Contour + approxPolyDP → `src/snapdocs/detect_canny.py` (T04)
 - Perspective warp → `src/snapdocs/warp.py` (T05)
 - Enhance sau scan (cân bằng histogram/CLAHE, threshold) → `src/snapdocs/enhance.py` (T10)
-- Chủ biên báo cáo (T14), khung repo/quy trình (T02)
+- Viết phần kỹ thuật của mình trong báo cáo (T14a: PP1, warp, enhance), gửi Huấn trước 29/12. **Không** làm chủ biên hay tổng hợp báo cáo (Huấn viết chính, Việt tổng hợp và duyệt)
+- Khung repo/quy trình (T02, đã xong)
 
 ## Cần đọc/học
 - Slide Ch4: Canny (NMS, ngưỡng kép, hysteresis), slide 57–59 contour

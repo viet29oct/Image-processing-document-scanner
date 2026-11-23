@@ -7,8 +7,8 @@
 | 7/12–13/12 | Phương pháp 2; công cụ đánh dấu 4 góc chuẩn |
 | 14/12–20/12 | Chạy đánh giá, bảng kết quả; cảnh báo chất lượng; enhance |
 | 21/12–27/12 | GUI; Hough nếu còn thời gian. **27/12: dừng thêm tính năng** |
-| 28/12–3/1 | Viết báo cáo, làm slide |
-| 4/1–10/1 | Tuần đệm: demo thử, sửa lỗi, luyện hỏi đáp |
+| 28/12–3/1 | Mỗi người gửi phần kỹ thuật cho Huấn (29/12); Huấn viết báo cáo chính (3/1) |
+| 4/1–10/1 | Việt tổng hợp và duyệt báo cáo (6/1), làm slide (8/1); demo thử, sửa lỗi, luyện hỏi đáp |
 | **12/1/2027** | **Thi / nộp** |
 
 Đây là ước lượng, chưa kiểm chứng. Điều chỉnh khi biết thêm hình thức thi và hạn nộp báo cáo.

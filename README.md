@@ -142,10 +142,15 @@ Phân công là **đề xuất**, nhóm duyệt/đổi trong tuần đầu. Bả
 - [ ] T15 — Slide + demo thử (hạn 8/1)
 - [ ] T16 — Tuần đệm: sửa lỗi, luyện hỏi đáp (hạn 10/1)
 
-**Theo người** (chi tiết ở mục 6)
-- **Phi:** T04, T05, T10, T14
-- **Huấn:** T06, T09
-- **Việt:** T03, T07, T08, T11
+**Vai trò và công việc chính** (chi tiết ở mục 6)
+
+| Người | Công việc chính (code) | Vai trò báo cáo |
+|---|---|---|
+| **Phi** | T04 Canny + Contour, T05 warp, T10 enhance | Viết phần kỹ thuật của mình (T14a), gửi Huấn |
+| **Huấn** | T06 Otsu/Adaptive + Morphology + Hull, T09 cảnh báo chất lượng | **Viết báo cáo chính** (T14b) |
+| **Việt** | T03 dữ liệu, T07 công cụ nhãn, T08 đánh giá, T11 GUI | **Tổng hợp và duyệt báo cáo** (T14c), làm slide (T15) |
+
+**Quy trình báo cáo:** mỗi người viết phần kỹ thuật của mình (29/12) → Huấn ghép và viết báo cáo chính (3/1) → Việt tổng hợp, kiểm số liệu, duyệt và chốt bản nộp (6/1) → Việt làm slide, cả nhóm demo thử (8/1).
 
 **Mốc theo tuần:** 29/11 chốt đề tài + khung · 6/12 PP1 + warp + ảnh chụp xong · 13/12 PP2 + công cụ nhãn · 20/12 đánh giá + cảnh báo chất lượng + enhance · 27/12 GUI + dừng tính năng · 3/1 báo cáo · 10/1 đệm.
 
@@ -154,27 +159,32 @@ Phân công là **đề xuất**, nhóm duyệt/đổi trong tuần đầu. Bả
 Mỗi người có file riêng ở [docs/members/](docs/members/): [phi.md](docs/members/phi.md), [huan.md](docs/members/huan.md), [viet.md](docs/members/viet.md). Tóm tắt:
 
 ### Phi — luồng A (nhánh `dev/phi`)
-Phương pháp 1, nắn phẳng, tăng cường ảnh, chủ biên báo cáo.
+Phương pháp 1, nắn phẳng, tăng cường ảnh. Không làm tổng hợp báo cáo; chỉ viết phần kỹ thuật của mình.
 - [ ] **T04 (6/12)** `src/snapdocs/detect_canny.py`: Canny → contour → approxPolyDP → 4 góc; test + ảnh minh hoạ
 - [ ] **T05 (6/12)** `src/snapdocs/warp.py`: nắn phẳng bằng `getPerspectiveTransform` + `warpPerspective`; test với góc biết trước
 - [ ] **T10 (20/12)** `src/snapdocs/enhance.py`: cân bằng histogram, CLAHE, Otsu, Adaptive; so sánh trước/sau
-- [ ] **T14 (3/1)** Báo cáo: chủ biên, mỗi người viết phần mình
+- [ ] **T14a (29/12)** Viết phần kỹ thuật PP1, warp, enhance (đúng với code, số liệu từ `experiments/`), gửi Huấn
 - Đọc/học: slide Ch4 (Canny, contour), Ch3 (histogram); tự học approxPolyDP, perspective, CLAHE
 - Phải giải thích được: vì sao Canny rồi mới contour; chọn ngưỡng Canny thế nào; epsilon của approxPolyDP; ma trận phối cảnh 3×3 từ 4 cặp điểm
 
 ### Huấn — luồng B (nhánh `dev/huan`)
-Phương pháp 2 và cảnh báo chất lượng ảnh.
+Phương pháp 2, cảnh báo chất lượng ảnh, **viết báo cáo chính**.
 - [ ] **T06 (13/12)** `src/snapdocs/detect_threshold.py`: làm xám → làm mờ → Otsu/Adaptive → closing → contour lớn nhất → convex hull → 4 điểm; test + ảnh minh hoạ
 - [ ] **T09 (20/12)** `src/snapdocs/quality.py`: cảnh báo mờ (phương sai Laplacian), quá xa (tỉ lệ diện tích), quá lệch (góc tứ giác); ngưỡng lấy từ số liệu thật
+- [ ] **T14a (29/12)** Viết phần kỹ thuật PP2 + chất lượng ảnh
+- [ ] **T14b (3/1)** **Báo cáo chính**: xương sống, ghép phần của Phi và Việt, văn phong thống nhất; bản nháp đủ mục
 - Đọc/học: slide Ch2 (threshold, Adaptive, Otsu); tự học morphology, `convexHull`, `Laplacian().var()`
 - Phải giải thích được: Otsu/Adaptive hợp điều kiện nào; closing làm gì với viền đứt; convex hull khác contour thường ở đâu; ngưỡng cảnh báo lấy từ đâu
 
 ### Việt — luồng C (nhánh `dev/viet`, chủ repo)
-Dữ liệu, nhãn, đánh giá, giao diện.
+Dữ liệu, nhãn, đánh giá, giao diện, **tổng hợp và duyệt báo cáo**.
 - [ ] **T03 (6/12)** Chụp và resize ≥ 40 ảnh theo 5 điều kiện (cả nhóm cùng chụp), đặt tên đúng quy ước
 - [ ] **T07 (13/12)** Công cụ đánh dấu 4 góc (click chuột → JSON); gán nhãn toàn bộ ảnh
 - [ ] **T08 (20/12)** `experiments/run_compare.py` + `src/snapdocs/evaluate.py`: bảng tỉ lệ đúng và sai số góc theo (điều kiện × phương pháp), biểu đồ
 - [ ] **T11 (27/12)** `app/`: GUI hai cửa sổ (chọn ảnh, chọn phương pháp, xem kết quả)
+- [ ] **T14a (29/12)** Viết phần dữ liệu, đánh giá, GUI
+- [ ] **T14c (6/1)** **Tổng hợp và duyệt báo cáo**: kiểm mọi số với `experiments/results/`, đối chiếu spec và code, chốt bản nộp
+- [ ] **T15 (8/1)** Làm slide từ báo cáo; cả nhóm demo thử
 - Đọc/học: Tkinter cơ bản; cách tính sai số giữa 4 góc dự đoán và chuẩn
 - Phải giải thích được: chia điều kiện chụp thế nào, vì sao; "đúng" nghĩa là gì (ngưỡng bao nhiêu); kết quả tốt/xấu ở điều kiện nào
 
@@ -186,7 +196,7 @@ Nằm ở [.claude/agents/](.claude/agents/):
 |---|---|
 | `cv-implementer` | Viết/sửa module OpenCV theo đúng chữ ký (Phi, Huấn) |
 | `experiment-runner` | Chạy so sánh, xuất bảng và biểu đồ (Việt) |
-| `report-writer` | Soạn báo cáo từ số liệu thật (Phi chủ biên, cả nhóm) |
+| `report-writer` | Soạn báo cáo từ số liệu thật (Huấn viết chính; Phi, Việt viết phần mình; Việt dùng để kiểm số liệu khi duyệt) |
 | `light-reviewer` | Review nhanh PR trước khi vào `main` (cả nhóm) |
 
 ## 8. Yêu cầu của giảng viên và câu hỏi còn mở
