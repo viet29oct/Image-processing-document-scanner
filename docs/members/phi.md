@@ -8,6 +8,7 @@
 - Enhance sau scan (cân bằng histogram/CLAHE, threshold) → `src/snapdocs/enhance.py` (T10)
 - Viết phần kỹ thuật của mình trong báo cáo (T14a: PP1, warp, enhance), gửi Huấn trước 29/12. **Không** làm chủ biên hay tổng hợp báo cáo (Huấn viết chính, Việt tổng hợp và duyệt)
 - Khung repo/quy trình (T02, đã xong)
+- **Có quyền merge PR** (cùng Việt): merge PR của Huấn và Việt, không tự merge PR của mình
 
 ## Cần đọc/học
 - Slide Ch4: Canny (NMS, ngưỡng kép, hysteresis), slide 57–59 contour

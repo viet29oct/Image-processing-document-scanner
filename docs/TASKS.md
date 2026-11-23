@@ -12,7 +12,7 @@ Phân luồng: **A** = phương pháp 1 + warp + enhance · **B** = phương ph�
 | **Huấn** | B | T06 Otsu/Adaptive + Morphology + Hull, T09 cảnh báo chất lượng | **Viết báo cáo chính** (chủ biên): xương sống, phần PP2 + chất lượng, ghép phần của người khác |
 | **Việt** | C | T03 dữ liệu, T07 công cụ nhãn, T08 đánh giá, T11 GUI | **Tổng hợp và duyệt báo cáo**: kiểm số liệu với `experiments/`, đối chiếu spec, chốt bản nộp; làm slide từ báo cáo |
 
-Việt cũng là chủ repo nên duyệt/merge PR cùng với người được chỉ định xem PR.
+**Quyền merge:** chỉ Phi và Việt. Huấn tạo commit và PR, không tự merge. Không ai tự merge PR của chính mình (PR Huấn: Phi hoặc Việt; PR Phi: Việt; PR Việt: Phi).
 
 ## Bảng task
 
