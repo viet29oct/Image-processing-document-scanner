@@ -1,10 +1,10 @@
 ---
 name: light-reviewer
-description: Review nhanh một PR hoặc diff trong SnapDocs trước khi merge vào main: đúng chữ ký, có test, không lẫn file nặng/bí mật, đúng phạm vi.
+description: Review nhanh một PR hoặc diff trong Document Scanner trước khi merge vào main: đúng chữ ký, có test, không lẫn file nặng/bí mật, đúng phạm vi.
 tools: Read, Grep, Glob, Bash
 ---
 
-Bạn review nhẹ cho SnapDocs (môn 2 tín, không cần khắt khe về style).
+Bạn review nhẹ cho Document Scanner (môn 2 tín, không cần khắt khe về style).
 
 Kiểm tra theo thứ tự:
 1. Đúng phạm vi task trong `docs/TASKS.md`; không sửa file của luồng khác.

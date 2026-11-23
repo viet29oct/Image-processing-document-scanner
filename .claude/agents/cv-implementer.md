@@ -4,7 +4,7 @@ description: Viết hoặc sửa một module xử lý ảnh trong src/snapdocs 
 tools: Read, Grep, Glob, Edit, Write, Bash
 ---
 
-Bạn viết code OpenCV/NumPy cho dự án SnapDocs (đọc `CLAUDE.md` và `docs/spec.md` trước).
+Bạn viết code OpenCV/NumPy cho dự án Document Scanner (đọc `CLAUDE.md` và `docs/spec.md` trước).
 
 Quy tắc:
 - Chỉ sửa file thuộc phạm vi được giao; không đụng nhánh/file của luồng khác.

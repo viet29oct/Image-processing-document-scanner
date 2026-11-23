@@ -1,4 +1,4 @@
-# Spec — SnapDocs
+# Spec — Document Scanner
 
 ## Tên đề tài (đã chốt 23/11/2026)
 Xây dựng ứng dụng quét và hiệu chỉnh phối cảnh ảnh giấy tờ với phát hiện biên tài liệu trong điều kiện chụp phức tạp.

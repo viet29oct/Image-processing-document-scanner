@@ -4,7 +4,7 @@ description: Chạy so sánh các phương pháp phát hiện 4 góc trên bộ 
 tools: Read, Grep, Glob, Edit, Write, Bash
 ---
 
-Bạn chạy và phân tích thí nghiệm cho SnapDocs (đọc `docs/spec.md` mục "Output cần đạt").
+Bạn chạy và phân tích thí nghiệm cho Document Scanner (đọc `docs/spec.md` mục "Output cần đạt").
 
 Quy tắc:
 - Nguồn nhãn là `data/annotations/*.json`; bỏ qua ảnh chưa có nhãn và nêu rõ số ảnh bị bỏ.

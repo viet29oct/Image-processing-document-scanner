@@ -1,4 +1,4 @@
-# SnapDocs — Image Processing (Nhập môn xử lý ảnh, nhóm 15, D18CNPM1)
+# Image Processing — Document Scanner (Nhập môn xử lý ảnh, nhóm 15, D18CNPM1)
 
 **Đề tài:** Xây dựng ứng dụng quét và hiệu chỉnh phối cảnh ảnh giấy tờ với phát hiện biên tài liệu trong điều kiện chụp phức tạp.
 
@@ -29,8 +29,8 @@ Từ ảnh chụp giấy tờ/văn bản bằng điện thoại (nghiêng, nền
 ## 1. Bắt đầu nhanh
 
 ```powershell
-git clone https://github.com/viet29oct/SnapDocs.git
-cd SnapDocs
+git clone https://github.com/viet29oct/Image-processing-document-scanner.git
+cd Image-processing-document-scanner
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt

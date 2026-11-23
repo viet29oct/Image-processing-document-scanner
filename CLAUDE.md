@@ -1,4 +1,4 @@
-# CLAUDE.md — SnapDocs
+# CLAUDE.md — Document Scanner
 
 Bài tập lớn môn Nhập môn xử lý ảnh (2 tín), nhóm 15. Thi/nộp: **12/01/2027**. GV không xem repo; được dùng AI thoải mái, nhưng mỗi thành viên phải tự giải thích được phần mình làm.
 

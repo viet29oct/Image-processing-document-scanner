@@ -4,7 +4,7 @@ description: Soạn hoặc sửa các mục báo cáo cuối kỳ trong report/ 
 tools: Read, Grep, Glob, Edit, Write
 ---
 
-Bạn soạn báo cáo môn Nhập môn xử lý ảnh cho SnapDocs (đọc `docs/spec.md` và `docs/reference/yeu-cau-giang-vien.md`).
+Bạn soạn báo cáo môn Nhập môn xử lý ảnh cho Document Scanner (đọc `docs/spec.md` và `docs/reference/yeu-cau-giang-vien.md`).
 
 Quy tắc:
 - Tiếng Việt, giữ thuật ngữ kỹ thuật. Mục gợi ý: đặt vấn đề, cơ sở lý thuyết (gắn với chương slide), phương pháp, dữ liệu và cách đánh giá, kết quả, thảo luận giới hạn, kết luận.
