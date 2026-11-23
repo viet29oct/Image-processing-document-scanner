@@ -6,8 +6,9 @@ Bản nhẹ cho môn 2 tín. Mục đích: ai cũng biết mình làm gì, làm 
 - `main`: luôn chạy được. Không commit thẳng.
 - Mỗi người một nhánh dài hạn: `dev/huan`, `dev/phi`, `dev/viet`. Việc nhỏ có thể tách `feat/<tên-việc>` từ nhánh của mình.
 - Vào `main` bằng PR, ít nhất **1 người khác** xem qua (xem nhanh 5–10 phút, không cần review nghiêm).
-- Merge kiểu squash; commit message ngắn, tiếng Việt hoặc Anh đều được: `detect: thêm phương pháp Canny+Contour`.
+- Merge kiểu **merge commit** (không squash), vì nhánh `dev/*` sống lâu; squash làm nhánh lệch với `main` và gây xung đột lặp lại. Commit message ngắn, tiếng Việt hoặc Anh đều được: `detect: thêm phương pháp Canny+Contour`.
 - Trước khi mở PR: `python -m pytest tests -q` qua, không còn file rác (ảnh nặng, `.venv`).
+- **Quy tắc bắt buộc: mỗi thành viên phải push lên nhánh `dev/<tên>` của mình.** Cuối mỗi buổi làm việc phải `git push origin dev/<tên>`, kể cả khi chưa xong (ghi WIP trong commit). Không để code chỉ nằm trên máy cá nhân; ít nhất mỗi tuần phải có commit mới trên nhánh của mình. Người duyệt dựa vào nhánh để biết tiến độ thật.
 
 ## 2. Task và checklist
 - Việc nằm trong [TASKS.md](TASKS.md): ID, người làm, hạn, checklist hoàn thành, trạng thái (`todo` / `doing` / `done`).
